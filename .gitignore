@@ -1,0 +1,7 @@
+config.h
+config.log
+config.status
+src/.deps
+src/.libs
+src/gpicview
+src/xml-purge

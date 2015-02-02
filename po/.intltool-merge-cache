@@ -1,0 +1,978 @@
+daFullscreen:Fuldskærm:skWriting this image format is not supported.Zápis tohto formátu súboru nie je podporovaný.faPrint version information and exitاطلاعات نسخه را چاپ کرده و خارج شوnlSlideshow intervalDiavoorstelling intervalmstranslator-credits罗森炳 Payne Samad Loh <sploh77@yahoo.com>
+Phyz <phyz2010@gmail.com>
+Umarzuki Bin Mochlis Moktar <umarzuki@gmail.com>plPrint version information and exitWypisuje informacje o wersji i kończy programbgLightweight image viewer from LXDE projectLightweight изобразител от LXDE проектаidGPicViewGPicViewukPrint version information and exitПоказати інформацію про версію і вийтиelStart/Stop SlideshowΈναρξη/Διακοπή ΠαρουσίασηςelFull ScreenΠλήρης οθόνηafNextVolgendeelQuitΈξοδοςukShow/Hide toolbarПоказати/Сховати панель інструментівfrGPicViewGPicViewltZoom OutAtitolintiplPreviousPoprzednisltranslator-creditsKlemen Košir <klemen.kosir@gmx.com>
+Andrej Žnidaršič <andrej.znidarsic@gmail.com>csMake GPicView the default viewer for imagesNastavit aplikaci GPicView jako výchozí prohlížeč obrázkůafSave FileStoor lêernlImage ViewerAfbeeldingkijkerhrtranslator-creditsIvica Kolić ikoli@yahoo.com
+BoljsaslAll FilesVse datotekehuLower quality values yield smaller file sizes,
+but the image quality will be poorer.Az alacsonyabb minőségértékek kisebb fájlméretet eredményeznek,
+de a kép minősége rosszabb lesz.es_VELightweight image viewer from LXDE projectVisor de imágenes ligero del proyecto LXDEsvAsk before saving imagesFråga innan bilder sparasthZoom Inย่อurtranslator-creditsمحمد علی مکی
+makki.ma@gmail.com
+اردو کوڈر لینکس فورم
+http://www.urducoder.com
+مکی کا بلاگ
+http://makki.urducoder.comitLower quality values yield smaller file sizes,
+but the image quality will be poorer.Valori di qualità inferiori comportano un file più piccolo,
+ma la qualità dell'immagine sarà inferiore.etZoom OutVähendaetRotate CounterclockwisePööra vastupäevaviStop SlideshowDừng Trình diễn ảnhviStart SlideshowBắt đầu Trình diễn ảnhcaGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView sera el vostre visualitzador d'imatges per defecte.
+(Això es fara mitjançant el programa 'xdg-mime')
+
+<b>Esteu segurs que ho voleu fer?</b>nnZoom InForstørrpt_BRRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rotacionar o arquivo JPEG alterando o valor de orientação EXIF
+(somente se a etiqueta EXIF existir)sl<b>Background colors</b><b>Barva ozadja</b>zh_TWDelete File刪除檔案srStop SlideshowЗаустави покретни приказskJPEG Quality:Kvalita JPEG:euStart/Stop SlideshowHasi/Gelditu diapositiba-aurkezpenabgStop SlideshowСпри слайдшоутоbgCopyright (C) 2007 - 2011Copyright © 2007 - 2011bgRotate ClockwiseЗавърти по часовниковата стрелкаtr * Refer to source code of EOG image viewer and GThumb * EOG imge görüntüleyici ve GThumb uygulamalarının kaynak koduna başvurunslGPicViewGPicViewfrCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011frSave FileEnregistrer le fichierafImage ViewerBeeldbekykerdesecsptMake GPicView the default viewer for imagesTornar GPicview o visualizador de imagens do sistemaafFlip VerticalSwaai vertikaal omhrMake GPicView the default viewer for imagesPostavi GPicView standardnim preglednikom slikamsFlip HorizontalLambungan Keufukanes_VEtranslator-creditsFestor Wailon Dacoba, 2007
+Julio Napurí Carlos <julionc@gmail.com>, 2008
+Guillermo Iguarán <tronador@cuteam.org>, 2009
+Hugo Florentino <sysadmin@cips.cu>, 2009daAutomatically save rotated imagesGem roterede billeder automatiskitOpen FileApri filebgFlip VerticalВертикално завъртанеfiPreviousEdellinenbn_INStart/Stop Slideshowস্লাইডশো চালু/বন্ধ করুনthAutomatically save rotated imagesบันทึกภาพที่หมุนอัตโนมัติkoHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.높은 압축 수준은 파일 크기를 작게 할 것입니다만,
+압축하는데 시간이 좀 더 걸릴 것입니다.zh_CNFit Image To Window Size图像适合窗口大小euFullscreen:Pantaila osoa:nlStop SlideshowStaak diavoorstellingcsAutomatically save rotated imagesAutomaticky ukládat otočené obrázkyes_VE * Refer to source code of EOG image viewer and GThumb * Consulte el código fuente del visor de imágenes EOG y del GThumbltFit Image To Window SizePriderinti paveikslėlį prie lango dydžioptPrint version information and exitImprimir informações da versão e sairelOriginal SizeΑρχικό μέγεθοςukPNG Compression Level:Ступінь компресії PNG:etFullscreen:Täisekraan:ukAll FilesВсі файлиeuJPEG Quality:JPEG kalitatea:trFlip VerticalDikey DöndürnbLower quality values yield smaller file sizes,
+but the image quality will be poorer.Lavere verdi gir mindre filstørrelser,
+men fører også til at bildekvaliteten blir dårligere.deOpen FileDatei öffnenhuGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>A GPicView lesz az alapértelmezett megjelenítő a támogatott képfájlokhoz a rendszereden.
+(Az 'xdg-mime' program futtatását követően)
+
+<b>Valóban ezt akarod?</b>etCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011pltranslator-creditsGrzegorz Gibas <amigib@gmail.com>
+Piotr Sokół <piotr.sokol@10g.pl> 2010.
+Artur Kruszewski <mazdac@gmail.com>nlMake GPicView the default viewer for imagesMaak GPicView de standaardkijker voor afbeeldingenar * Refer to source code of EOG image viewer and GThumb* راجع الشفرة المصدرية لعارض الصور عين جنوم وGThumbglFit Image To Window SizeAxustar a imaxe ao tamaño da xanelakoRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)EXIF 방향 값을 바꿔 JPEG 파일을 회전합니다
+(EXIF 방향 태그가 존재할 경우에만)nnThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Det finst alt ei fil med dette namnet.
+Vil du skriva over denne fila?
+(Åtvaring: Kvaliteten på originalbiletet kan verta forringa.)ur<b>Background colors</b><b>پس منظر رنگ</b>koNormal:일반:jaMake GPicView the default viewer for imagesGPicView を標準のイメージビューワにするltAsk before deleting imagesPaklausti prieš ištrinant paveikslėliustrView your images easilyResimlerinizi kolaylıkla görünbgView your images easilyПлавен преглед на вашите снимкиruAsk before deleting imagesСпросить перед удалением изображенийafPNG Compression Level:PNG-saampersvlak:srStart/Stop SlideshowПокрени/Заустави покретни приказtrFlip HorizontalYatay DöndürplSlideshow intervalCzas przejścia pomiędzy slajdami prezentacjideLightweight image viewer from LXDE projectLeichtgewichtiger Bildbetrachter des LXDE-ProjektsglAsk before saving imagesPreguntar antes de gardar as imaxesplOriginal SizeZwykły rozmiarfrSlideshow intervalIntervalle entre les diaposvRotate ClockwiseRotera medsolsltAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Ar tikrai norite ištrinti šį failą?
+
+Perspėjimas: ištrynus jo nebepavyks atkurti.ru[FILE][ФАЙЛ]skStart SlideshowSpustiť prezentáciunnAsk before deleting imagesSpør før sletting av bileteheSave Fileשמירת קובץfiShow/Hide toolbarNäytä/Piilota työkalurivipt_BRSave FileSalvar arquivodeRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG-Dateien auf Basis der EXIF-Ausrichtung drehen
+(nur wenn EXIF-Information zur Ausrichtung vorhanden ist)svtranslator-creditsMartin Bagge <brother@bsnet.se>
+
+Synpunkter på översättningen skickas till:
+<tp-sv@listor.tp-sv.se>plRotate CounterclockwiseObróć w lewothPreviousที่แล้วhuStart SlideshowDiavetítés indításapl * Refer to source code of EOG image viewer and GThumb * Korzysta z kodu przeglądarek obrazów EOG oraz GThumbmsNormal:Normal:bnStart/Stop Slideshowস্লাইড প্রদর্শন আরম্ভ/বন্ধsvFull ScreenHelskärmkoAsk before saving images그림을 저장하기 전에 묻기bn_INSave Fileফাইল সংরক্ষণ করা হবেzh_TWHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.較高的壓縮程度可產生比較小的檔案，
+但需要較長的時間來進行壓縮。arStart/Stop Slideshowابدأ/أوقف عرض الشرائحelPreferencesΠροτιμήσειςdaStart slideshowStart diasshowbnZoom Inবড় আকারে প্রদর্শনdeRotate ClockwiseIm Uhrzeigersinn drehenidImage ViewerPenampil CitraviZoom OutThu nhỏnbPrint version information and exitSkriv ut versjoninformasjon og avsluttptAll Supported ImagesTodas as imagens suportadashuPreferencesBeállításokzh_TWAll Supported Images所有支援的影像格式ukImage ViewerПереглядач зображень GPicviewelAll Supported ImagesΌλοι οι υποστηριζόμενοι τύποι εικόνωνglPreferencesPreferenciasruGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView станет просмотрщиком изображений по умолчанию для всех поддерживаемых файлов в вашей системе.
+(Это будет сделано через программу 'xdg-mime')
+
+<b>Вы действительно хотите сделать это?</b>elThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Το όνομα αρχείου που επιλέξατε υπάρχει ήδη.
+Θέλετε να αντικαταστήσετε το υπάρχον αρχείο;
+(Προειδοποίηση: Η ποιότητα της αρχικής εικόνας μπορεί να χαθεί)msHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Tahap mampatan lebih tinggi menghasilkan fail saiz yang lebih kecil,
+tetapi memakan lebih banyak masa untuk membuat mampatanbn_INWriting this image format is not supported.এই ছবির ফর্ম্যাটের জন্য সমর্থন নেই।hrAsk before deleting imagesPitaj prije brisanja datotekannAll Supported ImagesAlle støtta biletfilerthPrint version information and exitพิมพ์ข้อมูลรุ่นแล้วออกcaSlideshow intervalIntèrval de la transiciózh_TWOpen File開啟檔案zh_CN * Refer to source code of EOG image viewer and GThumb * 参考 EOG 及 GThumb 的源代码glLower quality values yield smaller file sizes,
+but the image quality will be poorer.Os valores máis baixos producen ficheiros de menor tamaño,
+mais a imaxe terá unha calidade máis pobre.hrImage ViewerPreglednik SlikasvAutomatically save rotated imagesSpara roterade bilder automatisktbnSave File Asফাইল নতুনভাবে সংরক্ষণcaThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)El nom seleccionat ja existeix.
+Voleu sobreescriure el fitxer existent?
+(Atenció: podeu perdre qualitat respecta la imatge original)itStart slideshowAvvia la presentazionzetrQuitÇıkbn_INQuitপ্রস্থান করুনkoOpen File파일 열기deOriginal SizeOriginalgrößecaSave FileDesask<b>Background colors</b><b>Farby pozadia</b>zh_CNSave File As另存为文件nlPNG Compression Level:PNG-Compressieniveau:ltStop SlideshowSustabdyti skaidrių peržiūrąfrAsk before deleting imagesDemander avant de supprimer des imagescsHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Větší komprese zmenší velikost souboru,
+ale komprimování zabere více času.bnWriting this image format is not supported.ছবির এই ফরম্যাটে লিখা সমর্থিত নয়।uktranslator-creditsYarema aka Knedlyk <yupadmin@gmail.com>skOpen FileOtvoriť súborhrWriting this image format is not supported.Spremanje u ovaj slikovni format nije podržano.nbFlip HorizontalSnu horisontaltglAsk before deleting imagesPreguntar antes de eliminar as imaxesruRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Поворачивать JPEG файл изменяя значение ориентации EXIF
+(только если параметр ориентации EXIF существует)skPreferencesNastaveniahe[FILE][FILE]heSave File Asשמירת קובץ בשםltsecsfaHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.بالا بردن سطح تراکم باعث کوچک شدن اندازه ی فایل های می شود, 
+اما اینکار وقت بیشتری را می طلبد.plQuitZakończcaAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Esteu segurs d'eliminar aquest fitxer?
+
+Alerta: un cop eliminat, el fitxer no es podrà recuperar.bnGPicViewGPicViewarSave File Asاحفظ الملف كـplAsk before deleting imagesWyświetlanie dialogu potwierdzenia przed usunięciem plikucaFlip HorizontalInverteixarAsk before saving imagesاسأل قبل حفظ الصورlt * Refer to source code of EOG image viewer and GThumb* Žiūrėkite EOG paveikslėlių žiūryklės ir GThumb pirminius tekstushuZoom OutKicsinyítészh_CNJPEG Quality:JPEG 质量：idAll Supported ImagesSemua Citra Yang DidukungesFullscreen:Pantalla completa:elSlideshow intervalΧρονικό διάστημα παρουσίασηςarGPicViewعارض الصور جltNextSekantisur_PKPrint version information and exitورژن کی معلومات طبع کر کے برخاست کریںptFlip VerticalInversão verticalfaSave File Asذخیره با عنوانltCopyright (C) 2007 - 2011Autorinės teisės (C) 2007 - 2011arAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.هل أنت متأكد أنك تريد حذف الملف الحالي؟
+
+تحذير: لا يمكن استعادة الملف بعد حذفه.itSave FileSalva filekoAll Files모든 파일jaZoom In拡大ruZoom InУвеличитьitAutomatically save rotated imagesSalva automaticamente immagini ruotatebnJPEG Quality:JPEG গুণগত মান:bnThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)আপনি যে ফাইলের নাম নির্বাচন করেছেন তা ইতিমধ্যেই বিদ্যমান রয়েছে।
+আপনি কি বিদ্যমান ফাইলটি প্রতিস্থাপন করতে চান?
+(সতর্কীকরণ: আসল ছবির গুণগত মান হয়ত নষ্ট হয়ে যেতে পারে)ukThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Назва файлу, яку Ви вибрали, вже існує.
+Ви бажаєте перезаписати вже існуючий файл?
+(Попередження: Можна втратити якість оригінального малюнка)th * Refer to source code of EOG image viewer and GThumb* อ้างอิง source code ของโปรแกรมดูภาพ EOG และ GThumbbgShow/Hide toolbarПоказване/Скриване на полето с инструментиslDelete FileIzbriši datotekoglFull ScreenPantalla completazh_TWSave File儲存檔案arNormal:الوضع العادي:euSlideshow intervalDiapositiba-aurkezpenaren bitarteafiStop SlideshowPysäytä diaesitysslSave AsShrani kotdaRotate ClockwiseRoter med uretplLower quality values yield smaller file sizes,
+but the image quality will be poorer.Niższa wartość zapewnia mniejszą objętość pliku i
+jednocześnie gorszą jakość obrazu.nnPreviousFørremsMake GPicView the default viewer for imagesJadikan GPicView sebagai pemapar default untuk imejdeView your images easilyBilder einfach betrachtenslCopyright (C) 2007 - 2011Avtorske pravice © 2007 - 2011idNextSelanjutnyapt_BR[FILE][ARQUIVO]casecsegheNormal:רגיל:zh_TWPNG Compression Level:PNG 壓縮程度：msWriting this image format is not supported.Tulisan imej format ini tidak disokongeuImage ViewerIrudi ikustaileadeShow/Hide toolbarWerkzeugleiste anzeigen/versteckenthGPicViewGPicViewelFit Image To Window SizeΠροσαρμογή της εικόνας στο μέγεθος του παραθύρουbgSave AsЗапази катоdaAsk before saving imagesSpørg før billeder gemmespt_BRJPEG Quality:Qualidade de JPEG:viPreviousTrướcbgFullscreen:На цял екранfaView your images easilyنگاهی سریع و آسانsrView your images easilyЛагано прегледање сликаsrtranslator-creditsSerbian (sr) — Jay A. Fleming <tito.nehru.naser@gmail.com>glOpen FileAbrir ficheirohrAutomatically save rotated imagesAutomatski spremi rotirane slikefrFlip HorizontalPivoter horizontalementskMake GPicView the default viewer for imagesUrobiť GPicview predvoleným prehliadačom všetkých obrázkovfaOpen Fileباز کردن پروندهsrNextСледећаfasecثانیهltZoom InPriartintifaNextبعدیglSlideshow intervalIntervalo de diapositivaseuAll Supported ImagesOnartutako irudi guztiakpt_BRCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011nbAsk before saving imagesSpør før lagring av bilderdaPreviousForrigefrFullscreen:Plein écran :skHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Vyššie úrovne kompresie produkujú menšiu veľkosť súboru,
+ale kompresia bude dlhšie trvať.jaFlip Horizontal水平方向に裏返すfaFull Screenتمام صفحهurFlip Horizontalافقی گھمائیںdeHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Eine höhere Komprimierung führt zu kleineren Dateigrößen,
+aber die Komprimierung nimmt mehr Zeit in Anspruch.nlFull ScreenVolledig schermurZoom Inنزدیک کریںesStart slideshowIniciar presentaciónzh_TWFlip Horizontal水平翻轉ltFlip VerticalApversti vertikaliaiidFlip VerticalBalikkan Tegakpt_BRStart SlideshowIniciar apresentação de slidesfiImage ViewerKuvankatselindaAll FilesAlle filerglMake GPicView the default viewer for imagesFacer de GPicView o visor de imaxes predeterminadoes_VERotate ClockwiseRotar a la derechadaFit Image To Window SizeTilpas billede til vinduets størrelsehrSave File AsSpremi Datoteku KaohrPrint version information and exitIspiši informacije o verziji i izađiglView your images easilyVexa as súas imaxes doadamentehesecשניותviQuitThoátfrRotate CounterclockwisePivoter vers la gaucheskFit Image To Window SizePrispôsobiť obrázok oknufaMake GPicView the default viewer for imagesنرم افزار GPicView را نمایشگر عکس پیشفرض کنtrsecsnkoOriginal Size본래 크기ukJPEG Quality:Якість JPEG:etJPEG Quality:JPEG kvaliteet:heSave Asשמירה בשםskAutomatically save rotated imagesAutomaticky ukladať otočené obrázkyidRotate ClockwisePutar Searah Jarum JambgStart slideshowСтартирай слайдшоуesStart/Stop SlideshowIniciar/Detener presentacióneuSave FileGorde fitxategiapt_BRView your images easilyVisualize suas imagens de forma fácilafRotate ClockwiseDraai kloksgewystrStop SlideshowSunu Gösterimini DurdurelCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011svGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView kommer att bli systemets standardvisare för alla bildformat som stöds.
+(Detta görs genom programmet "xdg-mime")
+
+<b>Är du säker på att du verkligen vill göra detta?</b>fa[FILE][FILE]fiJPEG Quality:JPEG-laatu:nnMake GPicView the default viewer for imagesGjer GPicView til standardvisar for biletfilertrAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Mevcut dosyayı silmek istediğinizden emin misiniz?Uyarı: Dosya bir kere silinirse, kurtarılamaz. esFit Image To Window SizeRedimensionar imagen al tamaño de la ventanaviCopyright (C) 2007 - 2011Bản quyền (C) 2007 - 2011elLower quality values yield smaller file sizes,
+but the image quality will be poorer.Μικρότερες τιμές ποιότητας αποδίδουν μικρότερο μέγεθος αρχείου,
+αλλά η ποιότητα είναι πιο φτωχή.hrAll FilesSve Datotekept_BRLightweight image viewer from LXDE projectVisualizador de imagens leve e rápido do projeto LXDEesAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.¿Está seguro que desea eliminar este archivo?
+
+Advertencia: Una vez eliminado, el archivo no podrá recuperarse.deNormal:Normal:huZoom InNagyítástrRotate CounterclockwiseSaatin Tersi Yönünde DöndürviRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Xoay tập tin JPEG bằng cách thay đổi giá trị định hướng EXIF
+(chỉ khi thẻ định hướng EXIF tồn tại)idAll FilesSemua Berkasur_PKThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)فائل کا نام جو آپ نے منتخب کیا ہے وہ پہلے ہی موجود ہے.
+کیا آپ سابقہ فائل پر لکھنا چاہتے ہیں؟
+(انتباہ: اصل تصویر کی کوالٹی خراب ہوسکتی ہے)ukStart/Stop SlideshowПочати/Зупинити слайдшоуitStop SlideshowFerma la presentazionecaZoom OutApropanbGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView vil bli standard bildeviser for alle støttede bilder på systemet.
+(Dette utføres ved hjelp av 'xdg-mime' programmet)
+
+<b>Vil du virkelig gjøre dette?</b>idStart SlideshowMulai Pertunjukan SalindiabgRotate CounterclockwiseЗавърти обратно на часовниковата стрелкаruPNG Compression Level:Уровень сжатия PNG:idsecdetbgDelete FileИзтрий файлkoDelete File파일 가제하기zh_CNAutomatically save rotated images自动保存经过旋转的图像caHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Amb valors alts de compressió tindreu fitxers petits,
+però trigarà més temps a fer la compressió.thView your images easilyดูภาพอย่างง่ายดายslHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Višja kot je raven stiskanja, manjša bo datoteka,
+vendar bo stiskanje trajalo dlje.thLightweight image viewer from LXDE projectตัวดูรูบภาพแบบเบาๆ จากโครงการ LXDE arStop Slideshowأوقف عرض الشرائحtrImage ViewerResim GörüntüleyiciitImage ViewerVisualizzatore di immaginikoNext다음ukMake GPicView the default viewer for imagesЗробити GPicView переглядачем зображень по замовчуваннюetPreferencesEelistusedjaAll Supported Images対応するすべての画像ファイルelZoom OutΣμίκρυνσηheStart Slideshowהתחלת המצגתbnNormal:সাধারণ:cs<b>Background colors</b><b>Barvy pozadí</b>zh_CNImage Viewer图像查看器jaWriting this image format is not supported.この画像フォーマットでの書き出しはサポートされていません。ptZoom OutReduzirhrNormal:Normalno:es_VEAll FilesTodos los archivoszh_CNGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicview 将成为您系统中所有被支持的图片的默认查看器。
+(这是通过“xdg-mime”程序实现的)
+
+<b>您是否确定要这么做？</b>frQuitQuitterplWriting this image format is not supported.Zapisywanie do tego formatu nie jest obsługiwane.faRotate Clockwiseچرخش ساعتگردhrGPicViewGPicViewukPreferencesВподобанняcatranslator-creditsCrèdits dels traductorsjaPNG Compression Level:PNG 圧縮レベル:ltView your images easilyLengvai peržiūrėkite paveikslėliusviGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView sẽ trở thành chương trình mặc địch để xem các tập tin ảnh được hỗ trợ trên hệ thống của bạn.
+(Việc này sẽ được thực hiện thông qua chương trình 'xdg-mime')
+
+<b>Bạn có chắc chắn bạn muốn làm điều này?</b>ruSlideshow intervalИнтервал слайдшоуnbPNG Compression Level:PNG-komprimering:urLightweight image viewer from LXDE projectہلکا پھلکا تصاویر منظر کار برائے ایل ایکس ڈی ای پراجیکٹkoPreferences기본 설정nb<b>Background colors</b><b>Bakgrunnsfarger</b>srGPicViewПрегледач сликаltSave FileIšsaugoti failąhrStart slideshowPokreni prikaz u slijedunlZoom InInzoomeneuAsk before deleting imagesGaldetu irudiak ezabatu aurretikslOriginal SizeIzvirna velikostkotranslator-creditsSeong-ho Cho <darkcircle.0426@gmail.com>nlAll Supported ImagesAlle ondersteunde afbeeldingennlPrint version information and exitVersie-informatie afdrukken en afsluitenafPreferencesVoorkeureafFlip HorizontalSwaai horisontaal ometAutomatically save rotated imagesPööratud pildid salvestatakse automaatseltnbNormal:Normal:urGPicViewجی پیک ویوsrRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Окрени „JPEG“ слику према „EXIF“ вредностима
+(само ако „EXIF“ таг за оријентацију слике постоји)glWriting this image format is not supported.Non se admite a escritura para este formato de imaxe.jasec秒jaOpen Fileファイルを開くbgAutomatically save rotated imagesЗапамети автоматично, завъртяните снимкиtrPrint version information and exitSürüm bilgisini yazdır ve çıkes_VEAutomatically save rotated imagesGuardar automáticamente las imágenes rotadasur_PKAll Filesتمام فائلیںtrRotate ClockwiseSaat Yönünde DöndürhrRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rotiraj JPEG datoteku mijenjajući EXIF orijentacijsku vrijednost
+(samo ako postoji EXIF orijentacijska oznaka)nbView your images easilyVis bilder lettvintfiSlideshow intervalDiaesityksen nopeuszh_CNNormal:普通：hrNextSljedećees_VEHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Los niveles más altos producen archivos de menor tamaño,
+pero la compresión toma más tiempo.thAll Supported Imagesรูปแบบภาพทั้งหมดที่สนับสนุนes_VEWriting this image format is not supported.No se admite la escritura para este formato de imagen.glAll FilesTodos os ficheirosafOriginal SizeOorspronklike grootteur_PKFlip Horizontalافقی گھمائیںukLightweight image viewer from LXDE projectЛегкий переглядач зображень від проекту LXDEbnFlip Horizontalঅনুভূমিকভাবে উল্টানোnlsecsechu[FILE][FÁJL]skSave FileUložiť súborsvCopyright (C) 2007 - 2011Copyright © 2007 - 2011trShow/Hide toolbarAraç çubuğunu Göster/GizledaFlip HorizontalVend vandretukWriting this image format is not supported.Запис зображення в цьому форматі не підтримується.urRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG کو EXIF جہتیابی قدر تبدیل کر کے کھمائیں
+(صرف اگر EXIF جہتیابی ٹیک موجود ہوا)thFullscreen:เต็มจอ:caPNG Compression Level:Nivell de compressió PNG:pt_BRsecsegundo(s)slAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Ali res želite izbrisati trenutno datoteko?
+
+<b>Opozorilo: izbrisane datoteke ni mogoče obnoviti.</b>msGPicViewGPicViewtrOriginal SizeÖzgün Boyutvitranslator-creditsTran Duy Hung <nguyentieuhau@gmail.com>es_VEAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.¿Seguro que desea eliminar el archivo actual?
+
+Advertencia: Una vez eliminado, el archivo no podrá recuperarse.zh_CNAll Files全部文件svWriting this image format is not supported.Stöd för skrivning till det här bildformatet saknas.bn_INPNG Compression Level:PNG Compression Level:afQuitSluit affiFullscreen:Kokoruutu:frpQuitModartrMake GPicView the default viewer for imagesGPicView uygulamasını resimler için öntanımlı görüntüleyici yapur_PKImage Viewerتصاویر منظرکارptQuitSaircaPreferencesPreferènciesur_PKRotate Counterclockwiseگھڑی کے عکس گھمائیںsrPreviousПретходнаplAll Supported ImagesObsługiwane plikibgOriginal SizeОригинален размерpt_BRRotate ClockwiseGirar no sentido horárionnLightweight image viewer from LXDE projectLett biletvisar for LXDEur_PKMake GPicView the default viewer for imagesجی پیک ویو کو تصاویر کے لیے طے شدہ تصاویر منظرکار بنائیںeuGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView zure sistemako irudi guztien ikustaile lehenetsia izango da
+(hau 'xdg-mine' programaren bidez egingo da)
+
+<b>Ziur zaude hau egin nahi duzula?</b>ltWriting this image format is not supported.Saugojimas šiuo formatu nepalaikomas.etGPicViewGPicViewja[FILE][ファイル]itCopyright (C) 2007 - 2011Copyright © 2007 - 2011svsecsekelWriting this image format is not supported.Η εγγραφή τέτοιου τύπου εικόνας δεν υποστηρίζεται.csFit Image To Window SizePřispůsobit velikost obrázku oknusrPNG Compression Level:Ниво компресије „PNG“ слике:euFull ScreenPantaila osoasrNormal:Нормално:fiStart/Stop SlideshowKäynnistä/pysäytä diaesitysdePreferencesEinstellungennnGPicViewGPicViewbnImage Viewerছবি প্রদর্শকglJPEG Quality:Calidade JPEG:caWriting this image format is not supported.La imatge no es pot guardar en aquest formatruImage ViewerПросмотр изображенийslImage ViewerPregledovalnik slikptStart SlideshowIniciar apresentaçãopt_BRRotate CounterclockwiseGirar no sentido anti-horáriotrRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG dosyasını EXIF yönlendirme değerini değiştirerek döndürün
+(yalnızca EXIF yönlendirme etiketi varsa)itGPicViewGPicViewnlRotate CounterclockwiseTegen de klok in draaienptOpen FileAbrir ficheiroes[FILE][ARCHIVO]plThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Plik o wprowadzonej nazwie już istnieje.
+Nadpisać istniejący plik?
+(Uwaga: jakość obrazu może ulec pogorszeniu.)csFlip HorizontalPřevrátit horizontálněcsDelete FileSmazat soubormsPreviousSebelumbnLightweight image viewer from LXDE projectLXDE প্রকল্প থেকে Lightweight ছবি প্রদর্শকsvNextNästatrStart slideshowSunu gösterimi başlateutranslator-creditsAlain Mendizabal <alainmendi@gmail.com>
+Asier Iturralde Sarasola <asier.iturralde@gmail.com>csThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Zvolený název souboru již existuje.
+Chcete přepsat existující soubor?
+(Varování: Kvalita původního obrázku se může snížit)zh_CNPreferences首选项slNormal:Običajno:viOpen FileMở Tập tinetFit Image To Window SizeMahuta pilt aknasseelPNG Compression Level:Επίπεδο συμπίεσης PNG:hrDelete FileObriši Datotekubn_INStart slideshowস্লাইডশো আরম্ভ করুনviJPEG Quality:Chất lượng JPEG:plPNG Compression Level:Poziom kompresji PNG:zh_TWGPicViewGPicView 圖片檢視skNormal:Normálna:pt_BRShow/Hide toolbarExibir/Ocultar barra de ferramentasnlLower quality values yield smaller file sizes,
+but the image quality will be poorer.Een lagere waarde voor kwaliteit zorgt voor kleinere bestanden,
+maar de beeldkwaliteit zal verminderen.skOriginal SizePôvodná veľkosťruOpen FileОткрыть файлitFlip HorizontalCapovolgi orizzontalmenteltStart/Stop SlideshowPradėti/sustabdyti skaidrių peržiūrąhuSave FileMentésfrpThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Lo nom de fichèr existe ja.
+Ehcrire dessus cetî fichèr?
+(Atencion: la qualitâ de l'imaji originala pòt ehtre perdûyi)fiRotate CounterclockwiseKäännä vastapäiväännbHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Høyere komprimering gir mindre filstørrelser,
+men det tar også lenger tid å utføre komprimeringen.es_VEFlip VerticalVoltear verticalmenteruGPicViewGPicViewur_PK * Refer to source code of EOG image viewer and GThumb * ای او جی EOG اور GThumb تصاویر منظر کاروں کا مصدر کوڈ دیکھیےzh_CNWriting this image format is not supported.不支持写入此图像格式。slThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Datoteka z izbranim imenom že obstaja.
+Ali želite prepisati obstoječo datoteko?
+
+<b>Opozorilo: kakovost izvirne slike se lahko izgubi.</b>euRotate CounterclockwiseBiratu ezkerreraitAsk before deleting imagesChiedi prima di eliminare immaginiitZoom OutRiduci ingrandimentoltStart SlideshowPradėti skaidrių peržiūrąnlThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Een bestand met deze naam bestaat al.
+Wilt u het bestaande bestand overschrijven?
+(Waarschuwing: de kwaliteit van de oorspronkelijke afbeelding kan verloren gegaan zijn)ruFlip HorizontalПеревернуть по горизонталиptZoom InAumentartrPreferencesTercihlernlAsk before saving imagesVraag bevestiging voor opslaan van afbeeldingenltAll FilesVisi failaifaWriting this image format is not supported.این نوع فرمت تصویری پشتیبانی نمی شود.etGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView saab toetatud pildifailide vaikimisi vaaturiks.
+(See tehakse 'xdb-mime' programmi abil)
+
+<b>Kas oled kindel, et see sooritada?</b>msJPEG Quality:Kualiti JPEG:esZoom OutAlejarsrSave File AsСачувај под другим именомfrFit Image To Window SizeAjuster l'image à la taille de la fenêtreesAsk before deleting imagesPreguntar antes de eliminar las imágenesitNextSuccessivasvStart slideshowStarta bildspelsvView your images easilyVisa dina bilder enkelthr<b>Background colors</b><b>Pozadinske boje</b>pt_BRMake GPicView the default viewer for imagesTornar o GPicview o visualizador padrão de imagensurHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.زیادہ دباؤ سے کم حجم کی فائلیں حاصل ہوتی ہیں،
+مگر دبانے میں زیادہ وقت صرف ہوتا ہے.artranslator-creditsأحمد فرغل <ahmad.farghal@gmail.com>كريم أولاد الشلحة <herr.linux88@gmail.com>huRotate ClockwiseForgatás jobbraglShow/Hide toolbarAmosar/agochar a barra de ferramentassksecseknlAutomatically save rotated imagesGedraaide afbeeldingen automatisch opslaanelPreviousΠροηγούμενοurOriginal Sizeاصل حجمfiZoom OutLoitonnafrFlip VerticalPivoter verticalementhr[FILE][DATOTEKA]zh_TWZoom Out縮小huSlideshow intervalDiavetítés időközees_VE[FILE][ARCHIVO]fiStart SlideshowAloita diaesitysbn_INGPicViewGPicViewglZoom OutDiminuírarMake GPicView the default viewer for imagesاجعل GPicView عارض الصور الافتراضيur_PKFullscreen:پوری سکرین:itFull ScreenSchermo interoelView your images easilyΠροβάλετε τις εικόνες σας εύκολαglGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView converterase no visor predeterminado para todos os ficheiros de imaxe no sistema.
+(Isto farase a través do aplicativo «xdg-mime»)
+
+<b>Está seguro de querer facer isto?</b>slSave File AsShrani datoteko kotplFlip HorizontalOdbij poziomofrptranslator-creditsAlexandre Raymond <Alexandre.Raymond@univ-lyon2.fr>daNextNæstehe * Refer to source code of EOG image viewer and GThumb * הפניה לקוד המקור של מציג התמונות EOG ושל GThumbbnAutomatically save rotated imagesস্বয়ংক্রিয়ভাবে আবর্তিত ছবি সংরক্ষণfrpFlip VerticalRevirèr verticalcsZoom OutOddáliteuAll FilesFitxategi guztiakkoRotate Counterclockwise반시계 방향 회전elImage ViewerΠροβολή εικόνωνjaNext次へskFlip VerticalPrevrátiť zvislethAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.ต้องการลบไฟล์นี้หรือไม่?
+
+คำเตือน: เมื่อลบแล้วไม่สามารถนำกลับคืนได้faSave Asذخیره با عنوانsvSave AsSpara somtrNormal:Normal:heMake GPicView the default viewer for imagesהפיכת GPicView למציג בררת המחדל עבור תמונותafSave File AsStoor lêer aseuFlip HorizontalIrauli horizontalkicsZoom InPřiblížitafZoom InZoem insvStart/Stop SlideshowStarta/Avsluta bildspelnnSlideshow intervalPause mellom kvart biletecaZoom InAllunyabn_INPrint version information and exitসংস্করণ তথ্য প্রদর্শন করে প্রস্থান করা হবেmsAll Supported ImagesSemua Imej yang DisokongfiOriginal SizeTodellinen kokoidQuitKeluarbgAsk before saving imagesЗапитай преди запаметяване на снимкиdaSave File AsGem fil somtrGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView, sisteiminizdeki bütün desteklenen resim dosyaları için öntanımlı görüntüleyici olacak.
+('xdg-mime' uygulaması aracılığıyla yapılacak)
+
+<b>Bunu gerçekten yapmak istediğinizden emin misiniz?</b>msPNG Compression Level:Tahap Mampatan PNG:ruStart slideshowЗапуск слайдшоуsrFull ScreenПрикажи преко целог екранаfrRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Pivoter les images JPEG en modifiant la valeur EXIF de l'orientation.
+(Uniquement si le champ EXIF orientation est présent.)frOriginal SizeTaille originalearPNG Compression Level:مستوى ضغط PNG:frAll FilesTous les fichierszh_CNGPicViewGPicViewviSave FileLưu Tập tinviNormal:Bình thường:afView your images easilyBekyk beelde met gemakthStop Slideshowหยุดการเสนอภาพนิ่งnnStart SlideshowStart biletframvisinges_VEOriginal SizeTamaño originalkoFlip Horizontal수평 뒤집기zh_CNSave File保存文件trAll FilesTüm Dosyalarzh_TW[FILE][檔案]arLower quality values yield smaller file sizes,
+but the image quality will be poorer.الجودة الأقل تولد صورا أصغر،
+إلا أن جودة الصورة تكون أسوأ.zh_TWView your images easily輕鬆檢視數位相片和圖片zh_CNHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.较高的压缩级别将会减少文件大小，
+但压缩的时间将会加长。zh_TWThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)你選擇的檔案名稱已經存在
+是否確定要覆蓋原有檔案？
+(警告：原影像的品質可能會喪失)euLightweight image viewer from LXDE projectLXDE proiekturako irudi ikustaile arinaarSave Asاحفظ كـidMake GPicView the default viewer for imagesBuat GPicview penampil standar untuk citraptsecseg.nbWriting this image format is not supported.Skriving til dette bildeformatet er ikke støttet.elAsk before deleting imagesΕρώτηση πριν τη διαγραφή αρχείωνelStart slideshowΈναρξη παρουσίασηςbnPrint version information and exitসংস্করণ তথ্যাবলী মুদ্রণ করে প্রস্থান করুনheAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.האם למחוק את הקובץ הנוכחי?
+
+אזהרה: לאחר מחיקת הקובץ אין כל אפשרות לשחזרו.csLightweight image viewer from LXDE projectOdlehčený prohlížeč obrázků z projektu LXDEsrZoom OutУмањиviZoom InPhóng lớnfiDelete FilePoistaruAll FilesВсе файлыtrSlideshow intervalSunu gösterimi aralığınl[FILE][BESTAND]bnRotate Counterclockwiseবাম দিকে ঘোরানvi * Refer to source code of EOG image viewer and GThumb* Dựa vào mã nguồn của chương trình xem ảnh EOG và GThumbzh_CN<b>Background colors</b><b>背景颜色</b>bnPNG Compression Level:PNG কম্প্রেশন স্তর:nlDelete FileBestand verwijderenmsRotate CounterclockwisePutarkan Ikut JamelStart SlideshowΈναρξη παρουσίασηςviLower quality values yield smaller file sizes,
+but the image quality will be poorer.Những giá trị chất lượng thấp hơn làm kích thước tập tin nhỏ hơn,
+nhưng chất lượng ảnh sẽ giảm theo.idNormal:Normal:thNormal:ทั่วไป:daPreferencesIndstillingeretAsk before deleting imagesEnne pildi kustutamist küsitakseetsecsekarThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)اسم الملف الذي اخترته موجود بالفعل.
+هل تريد الكتابة فوق الملف الموجود؟
+(تحذير: قد تفقد جودة الصورة الأصلية)huAsk before deleting imagesKérdés a képek törlése előttfrStop SlideshowArrêter le diaporamaltMake GPicView the default viewer for imagesPadaryti GPicview numatytaja paveikslėlių peržiūros programavi[FILE][TẬP TIN]glPrint version information and exitAmosar información da versión e saírafDelete FileSkrap LêerjaAsk before deleting images画像を削除する際に確認するde[FILE][DATEI]fiAll FilesKaikki tiedostotheAutomatically save rotated imagesשמירה אוטומטית של תמונות מסובבותglRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rotar a imaxe JPEG cambiando o valor de orientación EXIF
+(só se a etiqueta existe)glsecseg.pt_BRAutomatically save rotated imagesSalvar automaticamente imagens rotacionadasfrpPreferencesPreferencesjaShow/Hide toolbarツールバーを表示/隠すnnJPEG Quality:JPEG-kvalitet:fiAutomatically save rotated imagesTallenna automaattisesti käännetyt kuvatbn_INNormal:স্বাভাবিক:ptImage ViewerVisualizador de imagenseuMake GPicView the default viewer for imagesBihurtu GPicview irudi ikustaile lehenetsiaidStart/Stop SlideshowMulai/Berhenti Pertunjukan SalindianlGPicViewGPicViewtrLower quality values yield smaller file sizes,
+but the image quality will be poorer.Düşük nitelikli değerler, küçük dosya boyutları sağlarlar,
+ama resmin kalitesi de düşük olur.afAutomatically save rotated imagesStoor gedraaide beelde outomatiesglZoom InAumentarcaGPicViewGPicViewtrThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Seçtiğiniz dosya adı zaten var.
+Var olan dosyanın üstüne yazmak istiyor musunuz?
+(Uyarı: Özgün resmin niteliği kaybolabilir)zh_TW<b>Background colors</b><b>背景色彩</b>jaStop Slideshowスライドショーを終了frImage ViewerVisionneur d'imagesafAsk before saving imagesVra voordat beelde gestoor wordltAutomatically save rotated imagesAutomatiškai išsaugoti pasuktus paveikslėliusheJPEG Quality:איכות ה־JPEG:ruFullscreen:На полный экран:huStart/Stop SlideshowDiavetítés indítása/leállításaplDelete FileUsuńdaDelete FileSlet filhuThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)A kiválasztott fájlnév már létezik.
+Felülírod a létező fájlt?
+(Figyelmeztetés: Az eredeti kép minősége romolhat.)zh_CNFullscreen:全屏幕：ukZoom InЗбільшитиheFit Image To Window Sizeהתאמת גודל התמונה לגודל החלוןafHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Hoër saampersvlakke resulteer in kleiner lêergroottes,
+maar benodig meer tyd vir die saampersing.ltPreferencesNustatymaipt_BRPrint version information and exitMostra a versão e saisrSave FileСачувај датотекуnnImage ViewerBiletvisarfaStart slideshowشروع نمایش پرده ایnbAsk before deleting imagesSpør før sletting av bildermsPreferencesKegemarannlStart slideshowBegin diavoorstellingca * Refer to source code of EOG image viewer and GThumb* Basat en el codi font dels visors d'imatges EOG i GThumbelFlip HorizontalΕναλλαγή οριζόντιαmsLower quality values yield smaller file sizes,
+but the image quality will be poorer.Nilaian kualiti lebih rendah menghasilkan fail saiz yang lebih kecil, 
+tetapi kualiti imej akan terjejas.zh_CNZoom Out缩小es<b>Background colors</b><b>Colores de fondo</b>zh_CNStart slideshow开始幻灯片放映faPreferencesتنظیماتzh_TWStop Slideshow停止放映arFull Screenملء الشاشةskFlip HorizontalPrevrátiť vodorovneltRotate CounterclockwisePasukti prieš laikrodžio rodyklęes_VEPreviousAnteriorzh_TWOriginal Size原始大小nbsecsekafGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView gaan die verstekbekyker word vir alle ondersteunde beeldlêers op u stelsel.
+(Dit sal gedoen word deur dei 'xdg-mime'-program)
+
+<b>Wil u definitief dit doen?</b>skRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Otáčať JPEG súbory zmenou hodnoty orientácie EXIF
+(iba ak už EXIF značka orientácie existuje)daFull ScreenFuldskærmbn_INNextপরবর্তীukQuitВимкнутиidDelete FileHapus BerkasurFlip Verticalعمودی گھمائیںnbPreviousForrigeltFlip HorizontalApversti horizontaliaiur_PKDelete Fileفائل حذف کریںfrPreviousPrécédentarQuitأنهِplFit Image To Window SizeDopasuj do rozmiaru oknanbImage ViewerBildevisningmsRotate ClockwisePutarkan Lawan JamdeNextNächstesplsecsnbMake GPicView the default viewer for imagesGjør GPicView til standard bildeviser for alle bildereuQuitIrteneuThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Hautatu duzun fitxategi-izena dagoeneko existitzen da.
+Fitxategia gainidatzi nahi duzu?
+(Kontuz: jatorrizko irudiaren kalitatea galdu daiteke)fiNormal:Normaali:svMake GPicView the default viewer for imagesGör GPicview till standardvisare för bilderdeSave AsSpeichern untersrJPEG Quality:Квалитет „JPEG“ слике:csRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Otočit soubor s obrázkem ve formátu JPEG pomocí změny hodnoty pro
+orientaci v metadatech EXIF (pouze pokud je tato hodnota již přítomna)daAsk before deleting imagesSpørg før billeder sletteszh_CNPNG Compression Level:PNG 压缩级别：ptSave FileGravar ficheiroitSlideshow intervalIntervallo presentazionedaRotate CounterclockwiseRoter mod uretcaNextSegüenthusecmpru * Refer to source code of EOG image viewer and GThumb * Смотри исходный код просмотрщика EOG  и GThumbdeWriting this image format is not supported.Dieses Bildformat kann nicht gespeichert werden.nbQuitAvsluttthNextต่อไปaf<b>Background colors</b><b>Agtergrondkleure</b>glNextSeguintearLightweight image viewer from LXDE projectعارض صور خفيف من مشروع لكسديafAll Supported ImagesAlle ondersteunde beeldesvFit Image To Window SizeAnpassa bild till fönstrets storleknbAutomatically save rotated imagesAutomatisk lagring av roterte bilderur_PKLower quality values yield smaller file sizes,
+but the image quality will be poorer.کم کوالٹی قدروں سے کم حجم کی فائلیں حاصل ہوتی ہیں،
+مگر تصویر کی کوالٹی کم ہوجاتی ہے.thMake GPicView the default viewer for imagesตั้งให้ GPicView เป็นตัวดูภาพหลักbgPreviousПредишнаitPreferencesPreferenzecsLower quality values yield smaller file sizes,
+but the image quality will be poorer.Menší hodnota kvality zmenší velikost souboru,
+ale kvalita obrazu bude horší.heAsk before saving imagesהצגת שאלה בטרם שמירת תמונותarRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)لف صور JPEG عن طريق تغيير قيمة الاتجاه في EXIF
+(فقط إذا كان وسم الاتجاه موجودا في EXIF)huRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG-fájl elforgatása az EXIF tájolási értékének cseréjével
+(csak ha az EXIF tájolási tag létezik)nnStop SlideshowStopp framvisingafAsk before deleting imagesVra voordat beelde geskrap wordbn_INZoom Outজুম আউট করুনcsWriting this image format is not supported.Zápis tohoto formátu obrázku není podporován.bgQuitИзходsrAutomatically save rotated imagesАутоматски сачувај изокретане сликеplHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Wyższy poziom kompresji zapewnia mniejszą objętość pliku i
+jednocześnie wydłuża czas kompresji.idOriginal SizeUkuran SebenarnyaplView your images easilyWyświetla obrazyfaFullscreen:تمام صفحه:nnStart slideshowStart biletframvisingnnPNG Compression Level:PNG-komprimering:huRotate CounterclockwiseForgatás balraafFit Image To Window SizePas prent by venstergroottehrRotate CounterclockwiseRotiraj Suprotno Smjeru Kazaljke na SatuskRotate CounterclockwiseOtočiť proti smeru hodinových ručičiekur_PKSave Asمحفوظ بنامzh_TWFull Screen全螢幕ruAll Supported ImagesВсе поддерживаемые изображенияzh_TWGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView 會設定為所有可支援圖檔的預設程式。
+(這將會透過 'xdg-mime' 這個程式來達成)
+
+<b>你是否確定要這麼做？</b>zh_TWAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.你是否確定要刪除目前檔案？
+
+警告：一旦刪除，檔案就無法復原。euNormal:Normala:trAsk before deleting imagesResimleri silmeden önce sorslAutomatically save rotated imagesSamodejno shrani zavrtene slikeidSlideshow intervalInterval salindiacaFull ScreenPantalla completaslAsk before saving imagesZahtevaj potrditev pred shranitvijo slikehrRotate ClockwiseRotiraj u Smjeru Kazaljke na SatubnDelete Fileফাইল মুছে ফেলা হবেzh_TWRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)透過改變 EXIF orientation 值來旋轉 JPEG 圖檔
+(只有當 EXIF orientation 標籤存在時有效)bgThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Избраното име на файл вече съществува.
+Искате ли да презапишете съществувашия файл?
+(Внимание: качеството на оргиналното изображение може да се загуби)slFullscreen:Celozaslonski način:daGPicViewGPicViewnbFlip VerticalSnu verticaltplGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>Program GPicView stanie się domyślną przeglądarką dla wszystkich obsługiwanych obrazów w systemie.
+(Operacja zostanie wykonana przy użyciu programu 'xdg-mime')
+
+<b>Kontynuować?</b>deGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView wird als Standard-Bildbetrachter für alle unterstützten Bildformate auf Ihrem System gesetzt.
+(Dies geschieht durch das Programm 'xdg-mime'.)
+
+<b>Wollen Sie dies wirklich tun?</b>faGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>جی‌پیک‌ویو نمایشگر تصویرهای پشتیبانی شده در سیستم شما خواهد شد.
+(این کار بواسطه ی ابزار 'xdg-mime' انجام خواهد شد)
+
+<b>آیا واقعا می خواهید این کار را انجام بدهید؟</b>zh_CNLightweight image viewer from LXDE project来自 LXDE 计划的轻巧图片查看器ur_PKFull Screenپوری سکرینfrpLightweight image viewer from LXDE projectMohtrór d'imajes legèr per lo projeyt LXDEviPreferencesTùy chỉnhetView your images easilyVaata pilte veel lihtsamaltitHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Livelli di compressione più alti comportano file più piccoli,
+ma i tempi di salvataggio e caricamento potranno essere maggiori.faNormal:معمولی:bn_INImage Viewerইমেজ প্রদর্শকes_VENormal:Normal:pt_BRAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Você tem certeza que deseja excluir o arquivo atual?
+
+Atenção: uma vez excluído, o arquivo não pode ser recuperado.pl[FILE][PLIK]viAll FilesTất cả Tập tines_VEGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView se convertirá en el visor predeterminado para todos los archivos de imagen en el sistema.
+(Esto se hará a través del programa 'xdg-mime')
+
+<b>¿Estás seguro de desear hacer esto?</b>skGPicViewGPicViewnbLightweight image viewer from LXDE projectEnkel bildeviser fra LXDE prosjektetplStop SlideshowZatrzymaj prezentacjębnRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)EXIF স্থিতিবিন্যাসের মান পরিবর্তন করে  JPEG ফাইল আবর্তন
+(শুধুমাত্র যদি EXIF স্থিতিবিন্যাস ট্যাগ বিদ্যমান থাকে)frp * Refer to source code of EOG image viewer and GThumb * Vére la sorci de EOG image viewer é GThumbheStart slideshowהתחלת המצגתslAll Supported ImagesVse podprte slikeruSave AsСохранить какafThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Die lêernaam wat u gekies het, bestaan reeds.
+Wil u definitief die bestaande lêer oorskryf?
+(Waarskuwing: die kwaliteit van die oorspronklike beeld mag dalk verlore gaan)afFull ScreenVolskermes_VEJPEG Quality:Calidad JPEG:urFull Screenپوری سکرینbn_INOpen Fileফাইল খোলা হবেltRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Pasukant ir apverčiant pakeisti EXIF orientacijos reikšmę
+(jei ji egzistuoja)slLightweight image viewer from LXDE projectPregledovalnik slik za LXDEitWriting this image format is not supported.Il salvataggio in questo formato non è supportato.glCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011deFlip VerticalVertikal spiegelnnbStart SlideshowStart lysbildefremvisningzh_CNView your images easily轻松查看数码相片和图片nnRotate ClockwiseDrei med klokkaglSave AsGardar comozh_CNStart Slideshow开始幻灯片放映koMake GPicView the default viewer for imagesGPicView를 그림을 보기위한 기본 프로그램으로 설정합니다ptJPEG Quality:Qualidade JPEG:es * Refer to source code of EOG image viewer and GThumb * Consulte el código fuente del visor de imágenes EOG y del GThumbslPreferencesMožnostifisecsekdeAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Sind Sie sicher, dass Sie die Datei löschen möchten?
+
+Warnung: Nach dem Löschen kann diese
+Datei nicht mehr wieder hergestellt werden.nnSave FileLagra filfaGPicViewجی‌پیک‌ویوur_PKPNG Compression Level:PNG دباؤ درجہ:ruStart SlideshowЗапуск слайдшоуelLightweight image viewer from LXDE projectΕλαφρί πρόγραμμα προβολής εικόνων από το LXDE projectzh_CNRotate Counterclockwise逆时针旋转arPreviousالسابقةskLower quality values yield smaller file sizes,
+but the image quality will be poorer.Nižšia kvalita produkuje menšiu veľkosť súboru,
+ale kvalita obrázka bude horšia.koFit Image To Window Size그림을 창 크기에 맞추기idAsk before saving imagesTanya sebelum menyimpan citraltQuitIšeitiur_PKSave File Asفائل محفوظ کریں بنامdeStop SlideshowDiaschau beendenitPNG Compression Level:Livello di compressione PNG:urAutomatically save rotated imagesگھمائی گئی تصاویر کو خودکار طور پر محفوظ کریںmsCopyright (C) 2007 - 2011Hakcipta Terpelihara (C) 2007 - 2011zh_CNPrint version information and exit打印版本信息然后退出hrZoom OutSmanji ZumiranjeidRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Putar berkas JPEG dengan menukar nilai orientasi EXIF
+(hanya jika tag orientasi EXIF ada)ms<b>Background colors</b><b>Warna-warna latarbelakang</b>zh_CNDelete File删除文件dePreviousVorherigesnnAutomatically save rotated imagesLagra automatisk dreia bileteetQuitLõpetasv<b>Background colors</b><b>Bakgrundsfärg</b>caSave File AsAnomena i desa...nnRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Roter JPEG-biletet ved å endra EXIF-retninga
+(berre viss det alt finst ein EXIF-retningsverdi)svFullscreen:Helskärm:frpZoom InVére présitFlip VerticalCapovolgi verticalmentedeAsk before deleting imagesVor dem Löschen von Bildern nachfragenarOpen Fileافتح ملفاeuSave File AsGorde fitxategia honelabn_INFull Screenপুরো পর্দা জুড়েfitranslator-creditsElias Julkunen <elias.julkunen@gmail.com>skThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Názov súboru, ktorý ste zvolili už existuje.
+Chcete prepísať existujúci súbor?
+(Upozornenie: Kvalita originálu sa môže stratiť)huGPicViewGPicViewes_VEMake GPicView the default viewer for imagesHacer de GPicview el visor de imágenes predeterminadofrAll Supported ImagesToutes les images prises en chargeviFullscreen:Toàn màn hình:esAll Supported ImagesTodos los tipos de imágenes soportadosslLower quality values yield smaller file sizes,
+but the image quality will be poorer.Nižja kot je vrednost, manjša bo datoteka,
+vendar bo manjša tudi kakovost slike.afFullscreen:Volskerm:lt<b>Background colors</b><b>Fono spalvos</b>idFlip HorizontalBalikkan MendatarslView your images easilyOglejte si svoje slikebntranslator-creditsসাদিয়া আফরোজ <sadia@ankur.org.bd>ptAll FilesTodos os ficheiroscaAsk before saving imagesPregunta abans de desar imatgestrtranslator-creditsMehmet Gülmen (memetgulmen@gmail.com)Kılıç Kökenmartinamca (martinamca@gmail.comurCopyright (C) 2007 - 2011کاپی رائٹ (C) 2007 - 2011srRotate ClockwiseОкрени на десноsvDelete FileTa bort filurThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)فائل کا نام جو آپ نے منتخب کیا ہے وہ پہلے ہی موجود ہے.
+کیا آپ سابقہ فائل پر لکھنا چاہتے ہیں؟
+(انتباہ: اصل تصویر کی کوالٹی خراب ہوسکتی ہے)csSave File AsUložit soubor jakoetAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Kas oled kindel, et see fail kustutada?
+
+Hoiatus: kord kustutatud faili pole võimalik taastada.deFull ScreenVollbildmodussrHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Већи ниво компресије ће учинити да датотека
+буде мање величине, али ће, у том случају,
+бити потребно више времена за компресију.etPNG Compression Level:PNG tihenduse tase:deSave FileDatei speichernetFull ScreenTäisekraanptSave File AsGravar ficheiro comoth[FILE][ไฟล์]bnAsk before deleting imagesছবি মুছে ফেলার আগে জিজ্ঞেস করা হবেdeLower quality values yield smaller file sizes,
+but the image quality will be poorer.Ein niedrigerer Wert führt zu kleineren Dateigrößen,
+aber die Bildqualität nimmt ab.thStart Slideshowเริ่มการนำเสนอภาพนิ่งjaRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG ファイルの回転は EXIF タグを変更することで行う
+(EXIF に回転方向が保存されている場合のみ)bn_INPreferencesপছন্দestranslator-creditsFestor Wailon Dacoba <festor90@gmail.com>, 2007
+Julio Napurí Carlos <julionc@gmail.com>, 2008
+Guillermo Iguarán <tronador@cuteam.org>, 2009
+Hugo Florentino <sysadmin@cips.cu>, 2009-2010
+Lino Sotomayor <ljsp1@hotmail.com>, 2010hrFit Image To Window SizePodesi sliku na veličinu prozoraesOpen FileAbrir archivoetWriting this image format is not supported.Selle pildivormingu kirjutamine pole toetatud.nnAll FilesAlle filerafGPicViewGPicViewvisecgiâyafAll FilesAlle lêersdaMake GPicView the default viewer for imagesGør GPicview til standardfremviser for billedersrShow/Hide toolbarПрикажи/Сакриј траку са алаткамаskAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Ste si istý, že chcete zmazať vybraný súbor?
+
+Upozornenie: Keď ho raz zmažete, nebudete ho môcť obnoviť.caDelete FileEliminadaAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Bekræft sletning.
+
+Advarsel: Kan ikke fortrydes.svRotate CounterclockwiseRotera motsolsnl<b>Background colors</b><b>Achtergrondkleuren</b>msFullscreen:SkrinPenuh:esFull ScreenPantalla completapt_BRImage ViewerVisualizador de imagenskoSave File As다른 이름으로 저장zh_CNAsk before saving images保存图片前先询问es_VERotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rotar imagen JPEG cambiando el valor de orientación EXIF
+(solo si tal etiqueta existe)urAsk before saving imagesتصاویر محفوظ کرنے سے پہلے پوچھیںsrLower quality values yield smaller file sizes,
+but the image quality will be poorer.Мања вредност за квалитет ће учинити да
+датотека буде мање величине, али ће,
+у том случају, квалитет слике бити лошији.frp[FILE] [FICHÈR]elMake GPicView the default viewer for imagesΚάνε το GPicView το προεπιλεγμένο πρόγραμμα προβολής εικόνωνsvHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Högre kompressionsnivå innebär mindre
+filstorlek men tar längre tid att genomföra.heRotate Clockwiseסיבוב עם כיוון השעוןcsPreferencesPředvolbyelDelete FileΔιαγραφή αρχείουzh_TW * Refer to source code of EOG image viewer and GThumb * 參考 EOG 及 GThumb 的程式碼viLightweight image viewer from LXDE projectChương trình xem ảnh gọn nhẹ từ dự án LXDEslRotate ClockwiseZavrti v smeri urnega kazalcaltOriginal SizeOriginalus dydishuOriginal SizeEredeti mérettrLightweight image viewer from LXDE projectLXDE girişiminden, hafif resim görüntüleyicibn_INView your images easilyআপনার ছবিগুলি সহজে দেখে নিনeuStart slideshowHasi diapositiba-aurkezpenajaHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.大きな値を与えるほどファイルサイズは小さくなりますが、
+圧縮に長い時間がかかるようになります。caAll Supported ImagesTotels les imatges suportadesfr[FILE][FICHIER]nnHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Høgare verdiar gjev mindre filer,
+men det tek lenger tid å lagra dei.srAll Supported ImagesСве слике које су подржанеfaRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)چرخش JPEG با تغییر جهت یابی مقدار EXIF 
+(فقط در صورت وجود برچسب گرایش EXIF )bn<b>Background colors</b><b>পটভূমির রং</b>fiAsk before saving imagesKysy ennen kuvien tallentamistaidZoom InPerbesaresDelete FileEliminar archivobnPreviousপূর্ববর্তী jaOriginal Size元のサイズにnlSave AsOpslaan alsetZoom InSuurendada[FILE][FIL]pt_BRZoom InMais zoomfrpCopyright (C) 2007 - 2011Dret de Copiar - Copyrighy (C) 2007 - 2011csFlip VerticalPřevrátit vertikálněslRotate CounterclockwiseZavrti v nasprotni smeri urnega kazalcait[FILE][FILE]frPrint version information and exitAffiche les informations de version et quittetrCopyright (C) 2007 - 2011Telif Hakkı (C) 2007 - 2011bn_INPreviousপূর্ববর্তীplPreferencesPreferencjehuMake GPicView the default viewer for imagesLegyen a GPicView az alapértelmezett képmegjelenítőptStop SlideshowParar apresentaçãopt_BRSlideshow intervalIntervalo entre os slidesafStart/Stop SlideshowBegin/stop skyfievertoningesAutomatically save rotated imagesGuardar automáticamente las imágenes rotadasidPNG Compression Level:Tingkat Kompresi PNG:csStart slideshowZahájit prezentacisvAll FilesAlla filerruPreferencesНастройкиtrGPicViewGPicViewurQuitبرخاستjaPrevious前へsvPNG Compression Level:Kompressionsnivå för PNG:ur_PK<b>Background colors</b><b>پس منظر رنگ</b>fiFlip VerticalPeilaa pystysuunnassaplOpen FileOtwórz plikeuShow/Hide toolbarErakutsi/Ezkutatu tresna-barraslPNG Compression Level:Raven stiskanja:es_VEAsk before saving imagesPreguntar antes de guardar imágenesbnOriginal Sizeআদি আকারdaView your images easilyFremvis nemt dine billederfrpGPicViewGPicViewdaRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Roter JPEG-fil ved at ændre retningsværdien i EXIF
+(kun hvis mærket for retningværdien i EXIF eksisterer)hrsecsecnnPrint version information and exitVis versjonsinformasjon, og så avslutt.es_VERotate CounterclockwiseRotar a la izquierdaurAsk before deleting imagesتصاویر کو حذف کرنے سے پہلے سے پوچھیںesQuitSalirpt_BRHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Valores de compressão altos geram arquivos de tamanho pequeno,
+mas isso demora mais tempo para fazer a compressão.idPreferencesPreferensihuLightweight image viewer from LXDE projectPehelysúlyú képmegjelenítő az LXDE projekthezitAsk before saving imagesChiedi prima di salvare immaginiurZoom Outدور کریںpt_BRFit Image To Window SizeAjustar imagem à janelazh_CNOpen File打开文件nbPreferencesInnstillingerskAsk before saving imagesPýtať sa pred ukladaním obrázovthCopyright (C) 2007 - 2011สงวนลิขสิทธิ์ (C) 2007 - 2011viRotate CounterclockwiseXoay Phảikosec초thJPEG Quality:คุณภาพของ JPEG:esSlideshow intervalIntervalo de la presentacióndeAll Supported ImagesAlle unterstützten BilderetPrint version information and exitTrükib versiooniteabe ja väljubslFull ScreenCelozaslonski načindaJPEG Quality:JPEG-kvalitet:nlAll FilesAlle bestandenarSlideshow intervalمدة عرض الشرائحetDelete FileKustuta failnbAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Vil du virkelig slette denne filen?
+
+Advarsel: Slettede filer kan ikke gjenopprettes.srZoom InУвећајcsImage ViewerProhlížeč obrázkůdeGPicViewGPicViewnbThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Det finnes allerede en fil med angitt filnavn.
+Vil du overskrive eksisterende fil?
+(Advarsel: Kvaliteten til originalbildet kan gå tapt)glAll Supported ImagesTodas as imaxes compatíbeisviFlip HorizontalLật Theo Chiều ngangsktranslator-creditsIvan MasárviWriting this image format is not supported. Lưu định dạng ảnh này không được hỗ trợ.plFlip VerticalOdbij pionowoafMake GPicView the default viewer for imagesMaak GPicView die verstekbekyker vir beelderuQuitВыходdeQuitBeendentrSave AsFarklı Kaydetar[FILE][ملف]bgOpen FileОтвори файлetStart slideshowSlaidiesitluse alustamineelSave FileΑποθήκευση αρχείουarFit Image To Window Sizeلائم الصورة مع حجم النافذةkoAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.이 파일을 정말로 삭제하시겠습니까?
+
+경고: 한 번 삭제하면 복구할 수 없습니다.fiRotate ClockwiseKäännä myötäpäiväänruMake GPicView the default viewer for imagesСделать GPicView просмотрщиком изображений по-умолчаниюuk<b>Background colors</b><b>Кольори тла</b>thsecวินาที่hrLower quality values yield smaller file sizes,
+but the image quality will be poorer.Niže vrijednosti kvalitete donose manju veličinu datoteka,
+ali kvaliteta slike će biti manja.hrStart SlideshowPokreni prikaz u slijedusrPrint version information and exitИспиши информације о верзији и изађиtrPreviousÖncekiidtranslator-creditsAndika Padmawan <andhika.padmawan@gmail.com>, 2009.
+Aftian <aftian@yahoo.com>, 2009.
+Andika Triwidada <andika@gmail.com>, 2012.caCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011pt[FILE][Ficheiro]svImage ViewerBildvisarebn_INRotate Clockwiseঘড়ির কাঁটা অনুযায়ী ঘুড়িয়ে নিনesFlip HorizontalVoltear horizontalmenteglSave File AsGardar ficheiro comodeStart slideshowDiaschau startenthFlip Verticalหมุนกลับข้างfiSave AsTallenna nimelläcaStart slideshowInicia la transicióelGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>Ο GPicView θα γίνει το προεπιλεγμένο πρόγραμμα προβολής εικόνων για τους υποστηριζόμενους τύπους αρχείων στο σύστημά σας.
+(Αυτό θα γίνει μέσο του προγράμματος 'xdg-mime')
+
+<b>Είστε σίγουροι ότι θέλετε να το κάνετε αυτό;</b>nbAll Supported ImagesAlle støttede bildereuView your images easilyIkusi zure irudiak modu errazeansvRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rotera bilder genom att uppdatera EXIF-värdet för rotering
+(endast om EXIF-etiketten för rotering existerar)faStop Slideshowتوقف نماش پرده ایmsAll FilesSemua FailheLower quality values yield smaller file sizes,
+but the image quality will be poorer.ערכי איכות נמוכים יותר מניבים קבצים קטנים יותר,
+אך איכות התמונה תהיה נמוכה יותר.afRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Draai JPEG-lêer deur die EXIF-oriëntasiewaarde te verander
+(slegs as die EXIF-oriëntasie-etiket bestaan)skAll FilesVšetky súboryde<b>Background colors</b><b>Hintergrundfarben</b>euLower quality values yield smaller file sizes,
+but the image quality will be poorer.Kalitate baxuagoko irudiek fitxategi-tamaina txikiagoa dute,
+baina irudien kalitatea baxuagoa da.ur_PKFit Image To Window Sizeتصویر کو ونڈو کے حجم پر لائیںslSlideshow intervalHitrost predstavitveptGPicViewGPicViewzh_CNCopyright (C) 2007 - 2011版权所有 (C) 2007 - 2011caAsk before deleting imagesPregunta abans de borrar imatgesptPreferencesPreferênciasslFlip HorizontalZrcali vodoravnocsRotate CounterclockwiseOtočit proti směru hodinových ručičekidFull ScreenLayar PenuhukNextНаступнеfrpDelete FileDotar lo fichèrcsSlideshow intervalInterval prezentaceskSlideshow intervalInterval prezetáciebnStop Slideshowস্লাইড প্রদর্শন বন্ধviGPicViewGPicViewzh_CNShow/Hide toolbar显示/隐藏工具栏esGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView se convertirá en el visor predeterminado para todos los archivos de imagen en el sistema.
+(Esto se hará a través del programa 'xdg-mime')
+
+<b>¿Está seguro que realmente desea hacer esto?</b>frWriting this image format is not supported.Ce format d'image n'est pas pris en charge en écriture.elZoom InΜεγέθυνσηeuZoom InHandiagotuurImage Viewerتصاویر منظرکارnnOpen FileOpna filesLightweight image viewer from LXDE projectVisor de imágenes ligero del proyecto LXDEpt_BRNextPróximofrPNG Compression Level:Niveau de compression PNG :trFull ScreenTam EkranviStart slideshowBắt đầu trình diễn ảnhesSave FileGuardar archivoskSave AsUložiť akobgSlideshow intervalИзчакване в СлайдшоутоplSave File AsZapisz plik jakoelSave File AsΑποθήκευση αρχείου ωςesOriginal SizeTamaño originaleuPNG Compression Level:PNG konpresio maila:heStart/Stop Slideshowהתחלת/עצירת המצגתltStart slideshowPradėti skaidrių peržiūrąurLower quality values yield smaller file sizes,
+but the image quality will be poorer.کم کوالٹی قدروں سے کم حجم کی فائلیں حاصل ہوتی ہیں،
+مگر تصویر کی کوالٹی کم ہوجاتی ہے.slQuitKončajsrsecсекtr[FILE][DOSYA]bn_INZoom Inজুম ইন করুনesCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011plMake GPicView the default viewer for imagesUstaw jako domyślną przeglądarkę obrazówsvAsk before deleting imagesFråga innan bilder raderasbgGPicViewGPicViewpt_BROriginal SizeTamanho originaldaFlip VerticalVend lodretcs * Refer to source code of EOG image viewer and GThumb * Podívejte se do zdrojového kódu prohlížeče obrázků EOG a GThumbzh_TWAll Files所有檔案deStart SlideshowDiaschau starteneuStart SlideshowHasi diapositiba-aurkezpenazh_TWPrevious上一張es_VEQuitSaliretHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Suurema tihendustaseme korral saab väiksemad
+failid, kuid tihendamiseks kulub rohkem aega.esNextSiguientefr<b>Background colors</b><b>Couleurs d'arrière-plan</b>fiAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Haluatko varmasti poistaa nykyisen tiedoston?
+
+Varoitus: jos tiedosto poistetaan, sitä ei voi palauttaa.ruView your images easilyСмотрите ваши изображения без проблемdaLower quality values yield smaller file sizes,
+but the image quality will be poorer.Laver kvalitetsværdier giver mindre filstørrelse,
+men billedkvaliteten vil blive lavere.ptAsk before deleting imagesPerguntar antes de eliminar imagensidCopyright (C) 2007 - 2011Hak Cipta (C) 2007 - 2011pt_BRAsk before saving imagesPerguntar antes de salvar imagensnlSave FileBestand opslaanviSave AsLưu Bản saofrMake GPicView the default viewer for imagesDéfinir GPicview comme visionneur d'images par défautslShow/Hide toolbarPokaži/skrij orodno vrsticoitGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView diverrà il visualizzatore predefinito per tutte le immagini supportate sul tuo sistema.
+(Questo avverrà tramite il programma «xdg-mime»)
+
+<b>Sei sicuro di volerlo fare?</b>plStart/Stop SlideshowRozpocznij/zatrzymaj prezentacjęcaFit Image To Window SizeAjusta a la finestraviImage ViewerỨng dụng xem ảnhbnPreferencesপছন্দসমূহcsNormal:Normální:frPreferencesPréférencesmsSave File AsSimpan Fail Sebagaizh_TWSave File As另存新檔bgNormal:Нормално:frGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView deviendra votre visionneur d'images par défaut pour tous les types d'images pris en charge sur votre système.
+(ceci sera effectué grâce au programme « xdg-mime »)
+
+<b>Voulez-vous vraiment effectuer ceci ?</b>zh_CNPrevious上一张zh_CNSlideshow interval幻灯片放映间隔frtranslator-creditsElGeneralMidi <http://ubuntufromscratch.wordpress.com/>
+Robert-André Mauchin <zebob.m@pengzone.org>
+Cilyan Olowen <gaknar@gmail.com>zh_CNNext下一张caAll FilesTots els fitxersfaAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.آیا مطمئنید که می خواهید فایل فعلی را حذف کنید؟
+
+اخطار: یکبار حذف کردن یک عمر پشیمانی و بازگشت غیر ممکن.huPNG Compression Level:PNG tömörítési szint:huNormal:Normál:nnWriting this image format is not supported.Det er ikkje støtte for lagring til dette formatet.koFull Screen전체 화면huAll Supported ImagesTámogatott képekes_VEZoom InAcercarheFull Screenמסך מלאitThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Il file selezionato esiste già.
+Sostituire il file esistente?
+(Attenzione: La qualità dell'originale potrebbe andare persa)thLower quality values yield smaller file sizes,
+but the image quality will be poorer.ค่าคุณภาพน้อยทำให้ภาพเล็กลง,
+แต่จะทำให้ภาพไม่ชัดเจนjaZoom Out縮小idView your images easilyLihat gambar Anda dengan mudahnnFullscreen:Fullskjerm:aftranslator-creditsFriedel WolffesRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rotar imagen JPEG cambiando el valor de orientación EXIF
+(solo si existe la etiqueta de orientación EXIF)slsec(v sekundah)idJPEG Quality:Kualitas JPEG:caSave AsAnomena i desa...msSave FileSimpan FaildeSlideshow intervalBildwechselintervallplSave AsZapisz jakojaFull ScreenフルスクリーンsrAll FilesСве датотекеviNextSausvAll Supported ImagesAlla bilder som kan visasslPreviousPredhodnaviAutomatically save rotated imagesTự động lưu ảnh đã được xoayjaStart/Stop Slideshowスライドショーの開始/終了zh_TWStart/Stop Slideshow開始或停止放映ptRotate CounterclockwiseRodar à esquerdaglAutomatically save rotated imagesGardar automaticamente as imaxes rotadaszh_CNQuit退出deDelete FileDatei löschenhePreviousהקודםhuAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Valóban törölni akarod a jelenlegi fájlt?
+
+Figyelmeztetés: Törlés után a fájlt nem lehet visszaállítani.glHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Os niveis máis altos producen ficheiros de menor tamaño,
+mais a compresión leva máis tempo.faAll Supported Imagesهمه ی تصاویر پشتیبانی شدهarPrint version information and exitاكتب معلومات الإصدار ثم اخرجmsSave AsSimpan SebagainlFlip VerticalVerticaal omdraaienfrThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Un fichier portant le nom choisi existe déjà.
+Voulez-vous remplacer le fichier existant ?
+(Attention : La qualité de l'image originale pourrait être perdue)arImage Viewerعارض الصورviStart/Stop SlideshowBắt đầu/Dừng Trình chiếu ảnhglRotate ClockwiseRotar a dereitaitRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Ruota JPEG modificando il valore di orientamento EXIF
+(solo se la voce orientamento EXIF esiste)viFull ScreenToàn Màn hìnhdaOriginal SizeOprindelig størrelsekoStart/Stop Slideshow슬라이드 쇼 시작/중지pt_BRQuitSairarFullscreen:ملء الشاشة:nlNormal:Normaal:deJPEG Quality:JPEG-Qualität:euAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Ziur zaude uneko fitxategia ezabatu nahi duzula?
+
+Kontuz: ezabatu ondoren fitxategia ezin da berreskuratu.es_VEFit Image To Window SizeRedimensionar imagen al tamaño de la ventanabn_INFlip Horizontalঅনুভূমিক ভাবে ঘুড়িয়ে নিনafsecseknlStart SlideshowBegin diavoorstellingheDelete Fileמחיקת קובץfa<b>Background colors</b><b>رنگ پس زمینه</b>bgStart/Stop SlideshowПусни/Спри слайдшоуplAll FilesWszystkie plikisvShow/Hide toolbarVisa/Dölj verktygsradglGPicViewGPicViewur_PKRotate Clockwiseگھڑی کی سمت گھمائیںnnFlip VerticalSpegla loddrettptFit Image To Window SizeAjustar imagem à janelafrpFlip HorizontalRevirèr horizontalbgSave FileЗапази файлthOpen Fileเปิดไฟล์fiStart slideshowKäynnistä diaesitysbn_INStart Slideshowস্লাইডশো শুরু করুনurSave File Asفائل محفوظ کریں بنامbgNextСледващаur_PKSave Fileفائل محفوظ کریںdaStop SlideshowStop diasshowcsGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>Aplikace GPicView bude výchozím prohlížečem všech formátů obrázků podporovaných systémem.
+(Tato akce se provede pomocí aplikace 'xdg-mime')
+
+<b>Opravdu chcete pokračovat?</b>skDelete FileZmazať súborja<b>Background colors</b><b>背景色</b>pt_BRFullscreen:Tela cheia:csRotate ClockwiseOtočit ve směru hodinových ručičekcaFullscreen:Pantalla completa:frSave File AsEnregistrer le fichier sousarView your images easilyاعرض صورك بسهولةetRotate ClockwisePööra päripäevaaf[FILE][LÊER]arCopyright (C) 2007 - 2011حقوق النشر محفوظة (C) 2007 - 2011ukAsk before saving imagesЗапитувати перед збереженням зображеньbgAll FilesВсички файловеbgFull ScreenВ цял екранdaCopyright (C) 2007 - 2011Ophavsret 2007 - 2011msAutomatically save rotated imagesSimpan imej yang diputar secara automatikukRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Повертати JPEG файл через зміну значення повороту в EXIF (тільки коли ця опція існує в EXIF)esPreferencesPreferenciasltSave AsIšsaugoti kaipruSave FileСохранить файлskCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011plSave FileZapiszeuPrint version information and exitInprimatu bertsio-informazioa eta irtennbOpen FileÅpne filidLower quality values yield smaller file sizes,
+but the image quality will be poorer.Kualitas yang lebih rendah menghasilkan ukuran berkas yang lebih kecil,
+tetapi mutu gambar akan lebih jelek.es_VEThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)El nombre del archivo que has seleccionado ya existe.
+¿Seguro que desea sobrescribir el archivo existente?
+(Atención: puede perderse la calidad de la imagen original)msLightweight image viewer from LXDE projectPemapar imej ringan dari projek LXDEptAsk before saving imagesPerguntar antes de gravar imagensjaAsk before saving images画像を保存する際に確認するnnSave AsLagra sompt_BRPNG Compression Level:Nível de compressão PNG:nnAsk before saving imagesSpør før lagring av biletefi * Refer to source code of EOG image viewer and GThumb * Viittaa EOG-kuvankatselimen ja GThumbin lähdekoodeihinesRotate ClockwiseRotar a la derechaur_PKAutomatically save rotated imagesگھمائی گئی تصاویر کو خودکار طور پر محفوظ کریںkoRotate Clockwise시계 방향 회전jatranslator-creditsHironao Komatsu <hironao@users.sourceforge.net>jaFlip Vertical垂直方向に裏返すesFlip VerticalVoltear verticalmenteheOpen Fileפתיחת קובץbg[FILE][ФАЙЛ]esLower quality values yield smaller file sizes,
+but the image quality will be poorer.Los valores más bajos producen archivos de menor tamaño,
+pero la imagen tendrá una calidad más pobre.ukFit Image To Window SizeМасштабувати до розміру вікнаkoPNG Compression Level:PNG 압축 수준:csAll FilesVšechny souborynbZoom OutZoom utfaAsk before saving imagesپیش از ذخیره ی تصاویر بپرسetAll FilesKõik failidesStart SlideshowIniciar presentaciónthRotate Counterclockwiseหมุนทวนเข็มนาฬิกาgl<b>Background colors</b><b>Cores de fondo</b>thRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)หมุนภาพ JPEG โดยเปลี่ยนค่า EXIF 
+(เฉพาะเมื่อมีแท็กในค่า  EXIF อยู่แล้ว)msAsk before deleting imagesTanya sebelum memadamkan imejslStart SlideshowZačni predstaviteveuGPicViewGPicViewglPNG Compression Level:Nivel de compresión PNG:elsecδευτερόλεπταur_PKAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.کیا آپ واقعی حالیہ فائل کو حذف کرنا چاہتے ہیں؟
+
+انتباہ: حذف ہونے کے بعد فائل دوبارہ حاصل نہیں کی جاسکے گی.he<b>Background colors</b><b>צבעי הרקע</b>faZoom Inبزرگ نماییetLightweight image viewer from LXDE projectSulgkerge pildivaatur LXDE projektiltptRotate ClockwiseRodar à direitaafNormal:Normaal:zh_CN[FILE][文件]huAll FilesMinden fájlukView your images easilyЛегко переглядайте Ваші зображенняafStart slideshowBegin skyfievertoningetOpen FileAva failnn<b>Background colors</b><b>Bakgrunnsfargar</b>bgStart SlideshowСтартирай СлайдшоуbgZoom InУвеличаванеthAll Filesไฟล์ทั้งหมดpt_BRNormal:Normal:csPNG Compression Level:úroveň komprese PNG:euRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Biratu JPEG fitxategia EXIF orientazioaren balioa aldatuz
+(soilik EXIF orientazio-etiketa existitzen bada)viDelete FileXóa Tập tinbn_INOriginal Sizeআসল মাপpt_BRAsk before deleting imagesPerguntar antes de excluir imagensnbFull ScreenFullskjermurAll Filesتمام فائلیںptLower quality values yield smaller file sizes,
+but the image quality will be poorer.Se utilizar valores baixos gera ficheiros menores,
+mas a qualidade da imagem também será inferior.daZoom OutZoom udjaPrint version information and exitバージョン情報を表示して終了ms[FILE][FAIL]skLightweight image viewer from LXDE projectOdľahčený prehliadač obrázkov z projeku LXDEukSave FileЗберегти файлhuPrint version information and exitVerzióinformáció kiírása és kilépéspt_BRAll FilesTodos os arquivosesStop SlideshowDetener presentaciónhuPreviousElőzőarJPEG Quality:جودة JPEG:heGPicViewמציג התמונות GPicViewko[FILE]<파일>ltDelete FileIštrinti failąde * Refer to source code of EOG image viewer and GThumb * Basierend auf Quellcode des EOG-Bildbetrachters und GThumbidSave File AsSimpan Berkas SebagaifrpSave FileSauvar lo fichèrelHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Μεγαλύτερες τιμές συμπίεσης αποδίδουν μικρότερο μέγεθος αρχείου,
+αλλά παίρνουν περισσότερη ώρα για να συμπιεστούν.ur_PKAll Supported Imagesتمام معاون تصاویرbnNextপরবর্তীfaCopyright (C) 2007 - 2011کپی رایت(c) 2007 - 2011es_VEAll Supported ImagesTodos los tipos de imágenes soportadossr[FILE][FILE]nnDelete FileSlett filthStart slideshowเริ่มการนำเสนอภาพนิ่งltPrint version information and exitParodyti versijos informaciją ir išeitiarZoom OutبعّدslZoom InPribližajtrFit Image To Window SizeResmi Pencereye SığdırkoShow/Hide toolbar도구 모음 보이기/숨기기sk[FILE][SÚBOR]thOriginal Sizeขนาดดั้งเดิมafSlideshow intervalInterval vir skyvievertoningarAll Filesكل الملفاتhrFlip VerticalOkreni okomitoruFit Image To Window SizeМасштабировать к размеру окнаesWriting this image format is not supported.No se admite la escritura para este formato de imagen.es_VEFlip HorizontalVoltear horizontalmentezh_CNFlip Horizontal水平翻转caOpen FileObreid * Refer to source code of EOG image viewer and GThumb* Merujuk ke kode program penampil citra EOG dan GThumbjaJPEG Quality:JPEG 画質:nnAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Er du sikker på at du vil sletta denne fila?
+
+Åtvaring: Du kan ikkje gjenoppretta sletta filer.heThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)שם הקובץ שנבחר כבר קיים.
+האם לשכתב את הקובץ הקיים?
+(אזהרה: איכות התמונה המקורית עלולה להפגם)zh_CNRotate Clockwise顺时针旋转etOriginal SizeLähtesuuruscaQuitSurtitSave File AsSalva file con nomeglStart slideshowIniciar presentaciónhePrint version information and exitPrint version information and exitthRotate Clockwiseหมุนตามเข็มนาฬิกาptNormal:Normal:frpRotate ClockwiseVirèr a dretiruAsk before saving imagesСпросить перед сохранением изображенийsr * Refer to source code of EOG image viewer and GThumb * Погледајте изворни код „EOG“ и „GThumb“ програмаfiFit Image To Window SizeSovita kuva ikkunan kokoonhuStop SlideshowDiavetítés leállításaidOpen FileBuka BerkasitPreviousPrecedentefrZoom OutZoom arrièrenb * Refer to source code of EOG image viewer and GThumb * Se kildekode for EOG bildevisning og GThumbjaSlideshow intervalスライドショーの間隔ruNormal:Обычный:frpImage ViewerAfichór d'imajesbgFit Image To Window SizeНапасва изображението до размера на прозорецаes_VEPrint version information and exitMostrar información de la versión y salirlttranslator-creditsJoshas <joshas@freemail.lt>
+Julius Vitkauskas <zadintuvas@gmail.com>
+Algimantas Margevičius <margevicius.algimantas@gmail.com>ptThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Já existe um ficheiro com este nome.
+Pretende substituir o ficheiro existente?
+(Atenção: pode perder a qualidade da imagem original)zh_TWShow/Hide toolbar顯示／隱藏工具列ptGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>O GPicView vai ser o visualizador pré-definido para todas as imagens suportadas pelo seu sistema.
+(Isto será feito através do programa "xdg-mime")
+
+<b>Tem a certeza de que é isto que quer?</b>ruThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Файл с таким именем уже существует.
+Вы хотите переписать существующий файл?
+(Внимание: Качество оригинала может быть потеряно)hrQuitIzađihrShow/Hide toolbarPokaži/sakrij alatnu trakudaQuitAfslutfaRotate Counterclockwiseچرخش پادساعتگردid[FILE][BERKAS]esImage ViewerVisor de imágeneseuStop SlideshowGelditu diapositiba-aurkezpenaelOpen FileΆνοιγμα αρχείουheAll Supported Imagesכל התמונות הנתמכותdaPNG Compression Level:PNG-kompressionsniveau:heAll Filesכל הקבציםcsAll Supported ImagesVšechny podporované obrázkyhrLightweight image viewer from LXDE projectLagani preglednik slika iz LXDE projektaidShow/Hide toolbarTampilkan/sembunyikan bilah alatfaAutomatically save rotated imagesچرخش دورانی خودکار عکس هاzh_TWJPEG Quality:JPEG 品質：pt_BROpen FileAbrir arquivocaRotate CounterclockwiseRota a l'esquerraslOpen FileOdpri datotekothImage Viewerตัวดูภาพfa * Refer to source code of EOG image viewer and GThumb * ارجاع داده می شود به سورس هایEOG image viewer و GThumbzh_TWWriting this image format is not supported.目前不支援儲存這種影像格式bn_INRotate Counterclockwiseঘড়ির উল্টোদিকে ঘুড়িয়ে নিনbn_INFit Image To Window Sizeউইন্ডোর মাপ অনুযায়ী রাখুনarZoom InقرّبplZoom InPowiększitFullscreen:Schermo intero:faFlip Horizontalچرخش افقیsrDelete FileОбриши датотекуur_PKRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG کو EXIF جہتیابی قدر تبدیل کر کے کھمائیں
+(صرف اگر EXIF جہتیابی ٹیک موجود ہوا)sr<b>Background colors</b><b>Позадинске боје</b>pt_BRFull ScreenTela cheiadaZoom InZoom indbgMake GPicView the default viewer for imagesНаправи GPicView изобразител по подразбиранеsrImage ViewerПрегледач сликаurSave Asمحفوظ بنامetAsk before saving imagesEnne pildi salvestamist küsitaksedaPrint version information and exitUdskriv versionsinformation og afslutkoGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView는 여러분의 시스템에서 지원하는 모든 그림 파일의 기본 보기 프로그램이 될 것입니다.
+('xdg-mime' 프로그램으로 실행할 것입니다)
+
+<b>정말로 실행하시겠습니까?</b>afPrint version information and exitDruk weergawe-inligting en sluit afsrSlideshow intervalСледећа слика послеplLightweight image viewer from LXDE projectPrzeglądarka obrazów dla środowiska LXDEarFlip Horizontalاقلب أفقياtrWriting this image format is not supported.Bu resim biçiminin yazımı desteklenmiyor.ltJPEG Quality:JPEG kokybė:bn[FILE][ফাইল]deThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Die ausgewählte Datei existiert bereits.
+Möchten Sie die vorhandene Datei überschreiben?
+(Warnung: Die Qualität des Originalbildes kann verloren gehen)trAsk before saving imagesResimleri kaydetmeden önce sorelRotate CounterclockwiseΠεριστροφή αριστεράsvStop SlideshowAvsluta bildspelzh_CNThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)您所选的文件名称已经存在。
+您是否想要覆盖原有文件？
+(警告：原图片的品质可能会损失)pt_BRSave File AsSalvar arquivo comoetAll Supported ImagesKõik toetatud pildiditAll FilesTutti i filept_BRtranslator-creditsFábio Antunes <nospam@emal.com>
+Henrique P. Machado <hpmachado@gnome.org>
+Sérgio Cipolla <secipolla@gmail.com>
+Adriano H. Hedler <suporte@templosite.com>bgJPEG Quality:JPEG качество:zh_TWFit Image To Window Size適合視窗大小bn_INDelete Fileফাইল মুছে ফেলা হবেhutranslator-creditsBasák Péter Zsolt <shiki@biomernok.hu>
+Dvornik László <dvornik@gnome.hu>
+Szervác Attila <sas@321.hu>itLightweight image viewer from LXDE projectVisualizzatore di immagini leggero dal progetto LXDEukOpen FileВідкрити файлur_PKNormal:سادہ:bnGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>আপনার সিস্টেমের সকল সমর্থিত ছবির ফাইলের জন্য GPicView পূর্বনির্ধারিত প্রদর্শক হিসেবে নির্ধারিত হবে।
+(এটি 'xdg-mime' প্রোগ্রামের মধ্যমে সম্পন্ন হবে)
+
+<b>আপনি কি নিশ্চিত আপনি সত্যিই এটা করতে চান?</b>itsecseckoFlip Vertical수직 뒤집기slPrint version information and exitIzpiše podatke o različici.ruHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Больший уровень сжатия приводит к меньшим размерам,
+но требует больше времени на сжатие.itFit Image To Window SizeAdatta immagine alla finestradeFlip HorizontalHorizontal spiegelnur_PKGPicViewجی پیک ویوptSave AsGravar comoarAsk before deleting imagesاسأل قبل حذف الصورnb[FILE][FIL]fiAll Supported ImagesKaikki tuetut kuvatelPrint version information and exitΕκτύπωση πληροφοριών έκδοσης και έξοδοςptPNG Compression Level:Nível de compressão PNG:euSave AsGorde honelanlFit Image To Window SizeAfbeelding aanpassen aan venstergrootteurNormal:سادہ:caImage ViewerVisualitzador d'imatgesur_PK[FILE][فائل]thQuitออกhrAsk before saving imagesPitaj prije spremanja datotekaeuFlip VerticalIrauli bertikalkicsAsk before deleting imagesPtát se před odstraněním obrázkůitQuitEscizh_CNsec秒hr * Refer to source code of EOG image viewer and GThumb * Odnosi se na izvorni kod EOG preglednika datoteka i GThumbfiHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Mitä suurempi pakkaustaso, sitä pienempi koko,
+mutta pakkaukseen kuluu myös enemmän aikaa.bnAsk before saving imagesছবি সংরক্ষণ করার আগে জিজ্ঞেস করা হবেbgImage ViewerИзобразителth<b>Background colors</b><b>สีภาพพื้นหลัง</b>heCopyright (C) 2007 - 2011כל הזכויות שמורות (C) ‏2007 - 2011bgRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Завърти JPEG файл чрез промяна на EXIF ориентацията
+(Единствено ако съществува EXIF позиция)itDelete FileElimina filesrFullscreen:Цео екран:skImage ViewerPrehliadač obrázkovfrLower quality values yield smaller file sizes,
+but the image quality will be poorer.Une valeur plus petite entrainera un fichier plus petit,
+mais la qualité de l'image sera plus faible.uksecсекfiQuitLopetahuSave AsMentés máskéntplGPicViewGPicViewur_PKZoom Inنزدیک کریںthDelete Fileลบไฟล์ja * Refer to source code of EOG image viewer and GThumb * EOG イメージビューワと GThumb のソースコードの参照cssecsekundbnRotate Clockwiseডান দিকে ঘোরানdaLightweight image viewer from LXDE projectLetvægtsbilledfremviser fra LXDE-projektetarSave Fileاحفظ الملفjaDelete Fileファイルを削除するplAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Usunąć bieżący plik?
+
+Uwaga: usuniętego pliku nie będzie można odzyskać.csFull ScreenCelá obrazovkatrNextSonrakibnAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.আপনি কি নিশ্চিত আপনি বর্তমান ফাইলটি মুছে ফেলতে চান?
+
+সতর্কীকরণ: একবার মুছে ফেললে, ফাইলটি পুনরুদ্ধার করা সম্ভব হবে না।slRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Zavrti datoteko JPEG s spremembo
+vrednosti usmerjenosti EXIFpt_BRStart/Stop SlideshowIniciar/Parar apresentação de slidespt_BRGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>O GPicView se tornará o visualizador padrão para os arquivos de imagens suportados em seu sistema.
+(Isso será feito através do programa 'xdg-mime')
+
+<b>Tem certeza que deseja fazer isso?</b>frStart/Stop SlideshowDémarrer/Arrêter le diaporamafiMake GPicView the default viewer for imagesTee GPicviewistä oletuskuvankatselinruPreviousПредыдущийtrOpen FileDosya AçnbFit Image To Window SizeTilpass bildet til vinduetelAsk before saving imagesΕρώτηση πριν την αποθήκευση αρχείωνelFlip VerticalΕναλλαγή κάθεταpt_BRDelete FileExcluir arquivourDelete Fileفائل حذف کریںltGPicViewGPicViewcaPreviousAnteriorsrFit Image To Window SizeПрилагоди величину слике према прозоруfrpRotate CounterclockwiseVirèr a gauchikoPrevious이전ltAll Supported ImagesVisi palaikomi paveikslėliaiskSave File AsUložíť súbor akosrMake GPicView the default viewer for imagesПостави овај програм за подразумевани прегледач сликаcaJPEG Quality:Qualitat JPEG:trZoom InYakınlaştırhuJPEG Quality:JPEG-minőség:ur_PKZoom Outدور کریںptStart slideshowIniciar apresentaçãocsOriginal SizePůvodní velikosthuAsk before saving imagesKérdés a képek mentése előttcaPrint version information and exitMostra informació de la versió i surtessecsegplAsk before saving imagesWyświetlanie dialogu potwierdzenia przed zapisaniem plikuarRotate Clockwiseلف مع عقارب الساعةfrOpen FileOuvrir un fichierheFlip Verticalהיפוך אנכיtrPNG Compression Level:PNG Sıkıştırma Düzeyi:id<b>Background colors</b><b>Warna latar</b>koImage Viewer그림 보기urNextاگلاglFlip HorizontalVoltear horizontalmenteur_PKOriginal Sizeاصل حجمnbStart slideshowStart lysbildefremvisningjaImage ViewerイメージビューワetNextJärgminezh_CNFlip Vertical垂直翻转frDelete FileSupprimer le fichierkoStart slideshow슬라이드 쇼를 시작합니다idPrint version information and exitCetak informasi versi dan keluarmsOpen FileBuka Failzh_TWNext下一張esHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Los niveles más altos producen archivos de menor tamaño,
+pero la compresión toma más tiempo.et * Refer to source code of EOG image viewer and GThumb * Viit EOG ja GThumb pildivaaturite lähtekoodilehrStop SlideshowZaustavi prikaz u slijeduarHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.الضغط الأعلى يولد صورا أصغر،
+إلا أن إكمال الضغط يستغرق وفتا أطول.thThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)มีชื่อไฟล์ที่เลือกแล้ว
+ต้องการบันทึกทับไฟล์ที่มีอยู่แล้วหรือไม่
+(คำเตือน: ภาพต้นฉบับจะถูกแทนที่)zh_CNMake GPicView the default viewer for images设置 GPicview 为默认图片查看器thPNG Compression Level:ระดับการบีบอัดของ PNG:dasecsekheHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.ערכי דחיסה גבוהים יותר מניבים קבצים קטנים יותר,
+אך נדרש זמן רב יותר לדחוס אותם.zh_TWAsk before saving images儲存影像前先詢問msFit Image To Window SizeSesuaikan Imej Kepada Saiz WindowplFullscreen:Pełny ekran:svSave FileSpara filskQuitUkončiťnnLower quality values yield smaller file sizes,
+but the image quality will be poorer.Lågare verdiar gjev mindre filer,
+men dårlegare biletkvalitet.nlNextVolgendefiWriting this image format is not supported.Tähän kuvamuotoon tallentamiselle ei ole tukea.hrSave FileSpremi DatotekuplZoom OutPomniejszafCopyright (C) 2007 - 2011Kopiereg (C) 2007 - 2011elSave AsΑποθήκευση ωςptLightweight image viewer from LXDE projectVisualizador de imagens leve e rápido para o LXDEes_VEFullscreen:Pantalla completa:bn_IN * Refer to source code of EOG image viewer and GThumb * EOG image viewer এবং GThumb এর সোর্স কোড দেখে নিনitNormal:Normale:srAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Јесте ли сигурни да желите обрисати ову слику?
+
+УПОЗОРЕЊЕ: Касније не можете повратити ову слику.idFullscreen:Layar Penuh:viPrint version information and exitIn thông tin phiên bản và thoátviSave File AsLưu Bản saoltLower quality values yield smaller file sizes,
+but the image quality will be poorer.Žemesnės kokybės paveikslėliai užima mažiau vietos,
+bet jų kokybė atitinkamai prastesnė.itSave AsSalva con nomezh_TWSave As另存為ruStop SlideshowОстанов слайдшоуplNormal:Normalny:nn * Refer to source code of EOG image viewer and GThumb – Sjå kjeldekoden til Eye of GNOME (EOG) og GThumbglFullscreen:Pantalla completasvFlip VerticalRotera lodrättsvPrint version information and exitSkriv ut versionsinformation och avslutaur_PKAsk before deleting imagesتصاویر کو حذف کرنے سے پہلے سے پوچھیںukOriginal SizeСправжній розмірcsPrint version information and exitZobrazit číslo verze a ukončitmsThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Fail yang anda pilih sudah wujud.
+Adakah anda mahu tulis gantikan fail yang wujud?
+(Amaran: Kualiti imej asal mungkin akan hilang)afRotate CounterclockwiseDraai antikloksgewysbn_INAll Supported Imagesসকল সমর্থিত ছবিfrFull ScreenPlein écranhu * Refer to source code of EOG image viewer and GThumb * Lásd az EOG és a GThumb képmegjelenítő forráskódjátnbSave File AsLagre fil someuZoom OutTxikiagotukoSave As다른 이름으로 저장jaPreferences設定faStart Slideshowشروع در نمایش پرده‌ایurRotate Clockwiseگھڑی کی سمت گھمائیںur_PKOpen Fileفائل کھولیںes_VEPreferencesPreferenciastr<b>Background colors</b><b>Arkaplan renkleri</b>plStart slideshowRozpocznij prezentacjęzh_TWNormal:正常：bgPreferencesПредпочитанияviFit Image To Window SizeKích thước Vừa Cửa sổeu[FILE][FITXATEGIA]bn_INSave File Asএই নামে ফাইল সংরক্ষণ করা হবেfiThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Valitsemasi tiedostonimi on jo käytössä.
+Haluatko korvata tämän tiedoston?
+(Varoitus: alkuperäisen kuvan tarkkuus voi kadota)viSlideshow intervalKhoảng cách trình diễnzh_CNZoom In放大frpWriting this image format is not supported.Ehcrire dins cetî formât d'imaji n'eht pas possiblo.zh_TWSlideshow interval放映間隔elAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Είστε σίγουροι ότι θέλετε να διαγράψετε το παρόν αρχείο;
+
+Προειδοποίηση: Αν διαγραφεί το αρχείο δεν γίνεται να επαναφερθεί.ruFlip VerticalПеревернуть по вертикалиpt_BRStart slideshowIniciar apresentação de slidesukSave AsЗберегти якcsOpen FileOtevřít souborheFlip Horizontalהיפוך אופקיel * Refer to source code of EOG image viewer and GThumb* Αναφορά στον πηγαίο κώδικα του EOG image viewer και του GThumbdaStart/Stop SlideshowStart/stop diasshowurWriting this image format is not supported.تصویر کے اس فارمیٹ کو لکھنے کی معاونت نہیں ہے.ukFlip HorizontalПеревернути горизонтальноskFull ScreenCelá obrazovkafiLower quality values yield smaller file sizes,
+but the image quality will be poorer.Pienemmät arvot tarkoittavat pienempiä tiedostoja,
+mutta kuvan laatu myös huononee.faJPEG Quality:کیفیت تصویرJPEG:fr * Refer to source code of EOG image viewer and GThumb * Se réfère au code source du visionneur d'images EOG et GThumbzh_TWStart Slideshow開始放映huCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011trStart/Stop SlideshowSunu Gösterimini Başlat/DurdurukGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView стане переглядачем зображень по замовчуванню для всіх файлів, які підтримуються Вашою системою.
+(Це буде зроблено програмою 'xdg-mime')
+
+<b>Ви дійсно бажаєте це зробити?</b>plJPEG Quality:Jakość JPEG:heGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView יהפוך למציג בררת המחדל עבור כל קובצי התמונה הנתמכים שבמערכת שלך.
+(פעולה זו תתבצע דרך התכנית ‎‏'xdg-mime‎‏')
+
+‏<b>האם באמת לבצע זאת?</b>nnOriginal SizeOpphavleg storleikur_PKCopyright (C) 2007 - 2011کاپی رائٹ (C) 2007 - 2011esMake GPicView the default viewer for imagesHacer de GPicView el visor de imágenes predeterminadoviAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Bạn có chắc chắn muốn xóa tập tin hiện tại?
+
+Cảnh báo: Một khi đã bị xóa, tập tin không thể được phục hồi.etSlideshow intervalSlaidiesitluse ajavahemikpt_BRThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)O nome de arquivo que você escolheu já existe.
+Você deseja substituir o arquivo atual?
+Atenção: a qualidade da imagem original pode ser perdida.jaSave File As名前をつけて保存bnAll Filesসব ফাইলhuOpen FileMegnyitásarAll Supported Imagesكل ملفات الصور المدعومةbnFlip Verticalউল্লম্বভাবে উল্টানোetNormal:Tavaline:nntranslator-creditsKarl Ove HufthammerruShow/Hide toolbarПоказать/Скрыть панельda * Refer to source code of EOG image viewer and GThumb* Referer til kildekoden til EOG-billedfremviseren og GThumbviOriginal SizeKích thước GốcsvPreviousFöregåenderuZoom OutУменьшитьjaNormal:通常:frJPEG Quality:Qualité JPEG :svNormal:Normal:bnLower quality values yield smaller file sizes,
+but the image quality will be poorer.কম গুণগত মানের ফলে অপেক্ষাকৃত ছোট আকারের ফাইল তৈরী হয়,
+কিন্তু ছবির গুণগত মান খুবই খারাপ হয়।esSave File AsGuardar archivo comosvLightweight image viewer from LXDE projectLättviktig bildvisare från LXDE-projektetetShow/Hide toolbarTööriistariba näitamine/peitmineelFullscreen:Πλήρης οθόνη:euRotate ClockwiseBiratu eskuinerahrHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Veći kompresijski nivoi donose manje veličine datoteka,
+ali treba više vremena za kompresiju.idStart slideshowMulai pertunjukan salindiahrJPEG Quality:JPEG kvaliteta:esPrint version information and exitMostrar información de la versión y salirskPNG Compression Level:Úroveň kompresie PNG:euHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Konpresio maila altuagoko irudiek fitxategi-tamaina txikiagoa dute,
+baina konprimaketak denbora gehiago behar du.sl[FILE][DATOTEKA]deZoom OutHerauszoomenzh_TWZoom In放大trSave File AsDosyayı Farklı KaydetnnFit Image To Window SizeTilpass til vindaugsstorleikenzh_CNRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)通过更改 EXIF 方向值旋转 JPEG 文件
+(仅当 EXIF 方向标记存在时)euFit Image To Window SizeDoitu irudia leihoaren tamainaraafPreviousVorigeptShow/Hide toolbarMostrar/ocultar barra de ferramentasafStop SlideshowStop skyfievertoningukStart SlideshowПочати слайдшоуskNextĎalšíslStart/Stop SlideshowZačni/Zaustavi predstavitevnlZoom OutUitzoomendaSlideshow intervalInterval for diasshowidStop SlideshowHentikan Pertunjukan SalindiatrHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Yüksek sıkıştırma düzeyleri, küçük dosya boyutları sağlarlar,
+ama sıkıştırma işlemi daha çok zaman alır.ukFullscreen:Повний екран:faSlideshow intervalنمایش پرده ای زمان دارafLightweight image viewer from LXDE projectLiggewig beeldbekyker van die LXDE-projekmsZoom InSorotan Masuksv * Refer to source code of EOG image viewer and GThumb * Se källkoden för EOG image viewer och GThumbsrQuitИзлазbgAll Supported ImagesВсички поддържани форматиslSave FileShrani datotekopt_BRZoom OutMenos zoomskStart slideshowSpustiť prezentáciupl<b>Background colors</b><b>Kolory tła</b>etMake GPicView the default viewer for imagesGPicview on vaikimisi pildivaaturukPreviousПопереднєjaRotate Clockwise時計回りに回転するurJPEG Quality:JPEG کوالٹی:zh_CNAll Supported Images所有支持的图像itPrint version information and exitStampa informazioni sulla versione ed esceitStart/Stop SlideshowAvvia/Ferma presentazioneglAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Está seguro de querer eliminar o ficheiro actual?
+
+Coidado: Unha vez eliminado, o ficheiro non se pode recuperar.trZoom OutUzaklaştırzh_TWMake GPicView the default viewer for images將 GPicView 設為預設的圖片檢視程式frLightweight image viewer from LXDE projectVisionneur d'images léger du projet LXDEurAll Supported Imagesتمام معاون تصاویرesView your images easilyVea sus imágenes fácilmentecsGPicViewGPicViewltNormal:Normalus:bn_INStop Slideshowস্লাইডশো বন্ধ করুনnbDelete FileSlett filnlView your images easilyBekijk uw afbeeldingen op een makkelijke manierzh_CNAsk before deleting images删除图片前先询问bn_INFlip Verticalউলম্বভাবে ঘুড়িয়ে নিনtrAll Supported ImagesBütün Desteklenen ResimlernlFlip HorizontalHorizontaal omdraaienbgsecСек.nnCopyright (C) 2007 - 2011Copyright © 2007–2011hrSave AsSpremi kaoidZoom OutPerkeciljaAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.このファイルを本当に削除しますか？
+
+警告: 一度削除したファイルは復元できませんafLower quality values yield smaller file sizes,
+but the image quality will be poorer.Laer kwaliteitwaardes resulteer in kleiner lêergroottes,
+maar beeldkwaliteit sal swakker wees.frRotate ClockwisePivoter vers la droitecsSave AsUložit jakosrGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>Овај програм ће бити подразумевани прегледач слика за подржане слике.
+(Ово ће бити остварено посредством „xdg-mime“ програма)
+
+<b>Да ли заиста желите ово да урадите?</b>elRotate ClockwiseΠεριστροφή δεξιάdaOpen FileÅbn filcaOriginal SizeMida originaletStart SlideshowSlaidiesitluse alustaminemsFull ScreenSkrin PenuhkoSlideshow interval슬라이드 쇼 시간 간격ittranslator-creditsFabio Barone <phonky@gmx.net>
+Alessandro Pellizzari <alex@amiran.it>
+Daniele Forsi <daniele@forsi.it>ur_PKQuitبرخاستur_PKPreviousسابقہukCopyright (C) 2007 - 2011Всі права застережені (С) 2007 - 2011ptOriginal SizeTamanho originales_VECopyright (C) 2007 - 2011Copyright (C) 2007 - 2011trDelete FileDosyayı SilheStop Slideshowעצירת המצגתetFlip HorizontalRõhtne pööramineurOpen Fileفائل کھولیںzh_TWFlip Vertical垂直翻轉koThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)선택한 파일 이름이 이미 존재합니다.
+기존 파일에 덮어 쓰시겠습니까?
+(경고: 본래 파일의 화질을 잃을 것입니다)euAutomatically save rotated imagesGorde automatikoki biratutako irudiakcsJPEG Quality:Kvalita JPEG:zh_TWStart slideshow開始放映deZoom InHineinzoomenjaFullscreen:フルスクリーン:faStart/Stop Slideshowشروع/پایان نمایش پرده ایnlQuitAfsluitenarStart Slideshowابدأ عرض الشرائحit<b>Background colors</b><b>Colori di sfondo</b>huNextKövetkezőur * Refer to source code of EOG image viewer and GThumb * ای او جی EOG اور GThumb تصاویر منظر کاروں کا مصدر کوڈ دیکھیےetPreviousEelmineidSave FileSimpan BerkasesNormal:Normal:ltOpen FileAtverti failąarRotate Counterclockwiseلف عكس عقارب الساعةcaNormal:Normal:koLower quality values yield smaller file sizes,
+but the image quality will be poorer.낮은 화질 값은 파일 크기를 작게 할 것입니다만,
+그림 화질은 떨어질 것입니다.msAsk before saving imagesTanya sebelum simpankan imejbnMake GPicView the default viewer for imagesGPicView-কে পূর্বনির্ধারিত ছবি প্রদর্শক হিসেবে নির্ধারণ করুনfrpAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Siórd de dotar l'imaji actuèla?
+
+Atencion: Na vés que l'imaji eht ehta dotâyi, n'eht pâs més possiblo de tornar a la trovar!bnView your images easilyসহজেই আপনার ছবিগুলো দেখুনmsQuitKeluarzh_CNSave As另存为plImage ViewerPrzeglądarka obrazówukZoom OutЗменшитиviFlip VerticalLật Theo Chiều dọcplNextNastępnyhrGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView će postati standardni preglednik za sve podržane slikovne datoteke na vašem sustavu.
+(Ovo će biti učinjeno kroz 'xdg-mime' program)
+
+<b>Jeste li sigurno da želite ovo učiniti?</b>el[FILE][ΑΡΧΕΙΟ]csPreviousPředchozífiFull ScreenKokoruutuhrOpen FileOtvori DatotekucaMake GPicView the default viewer for imagesFes el GPicView el meu visualitzador d'imatges predeterminatnlGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicview zal de standaardkijker worden voor alle ondersteunde afbeeldingbestanden op uw computer.
+(Dit gebeurt door middel van het 'xdg-mime' programma)
+
+<b>Weet u zeker dat u wilt doen?</b>viPNG Compression Level:Cấp độ Nén PNG:ruNextСледующийzh_TWsec秒frpOpen FileUvrir un fichèrbgAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Сигурни ли сте, искате да изтриете текущия файл?
+
+Внимание: веднъж изтрит, файла не може да се възстанови.glDelete FileEliminar ficheironnPreferencesInnstillingarfiLightweight image viewer from LXDE projectKevyt kuvankatselin LXDE-projektistaidThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Nama berkas yang Anda pilih telah ada.
+Apakah Anda ingin menimpa berkas yang telah ada?
+(Peringatan: Kualitas citra asli mungkin hilang)elAll FilesΌλα τα αρχείαjaLower quality values yield smaller file sizes,
+but the image quality will be poorer.小さい値を与えるほどファイルサイズは小さくなりますが、
+画質は悪化します。jaStart Slideshowスライドショーを開始fi[FILE][TIEDOSTO]pt_BRLower quality values yield smaller file sizes,
+but the image quality will be poorer.Valores de qualidade baixos geram arquivos de tamanho pequeno,
+mas a qualidade do arquivo será baixa.nbSave FileLagre filesThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)El nombre de archivo que ha elegido ya existe.
+¿Desea reemplazar el archivo existente?
+(Advertencia: Puede perderse la calidad de la imagen original)koSave File파일 저장하기ru<b>Background colors</b><b>Цвета фона</b>svPreferencesInställningarheZoom OutהתרחקותglRotate CounterclockwiseRotar a esquerdaheZoom InהתקרבותfaZoom Outکوچک نماییukFull ScreenНа повний екранnlJPEG Quality:JPEG-kwaliteit:af * Refer to source code of EOG image viewer and GThumb * Verwys na die bronkode van EOG-beeldbekyker en GThumbruOriginal SizeМасштаб 1:1viRotate ClockwiseXoay Tráieltranslator-creditsΒασιλάκος Γιώργος <forfolias@linuxteam.cs.teilar.gr>koAsk before deleting images그림을 삭제하기 전에 묻기caRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rota el fitxer JPEG canvian el valor d'orientació EXIF
+(només si l'etiqueta EXIF d'orientació existeix)frpFull ScreenPlèn ecrannbZoom InZoom innfiGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicViewistä tulee järjestelmän oletuskatselin kaikille tuetuille kuvatiedostoille.
+Tämä tehdään "xdg-mime"-ohjelman avulla.
+
+<b>Tehdäänkö näin?</b>fiCopyright (C) 2007 - 2011Tekijänoikeudet (C) 2007 - 2011koZoom In확대nbSave AsLagre somnnNormal:Vanleg:afStart SlideshowBegin skyfievertoningurFit Image To Window Sizeتصویر کو ونڈو کے حجم پر لائیںur_PKLightweight image viewer from LXDE projectہلکا پھلکا تصاویر منظر کار برائے ایل ایکس ڈی ای پراجیکٹcsQuitUkončitpttranslator-creditsÁlvaro Morais <alvarommorais@gmail.com>
+Sérgio Marques <smarquespt@gmail.com>slNextNaslednjaruRotate ClockwiseПовернуть по часовой стрелкеnbNextNesteukAsk before deleting imagesЗапитувати перед видаленням зображеньtrJPEG Quality:JPEG Niteliği:huImage ViewerKépmegjelenítőarsecثانيةesAll FilesTodos los archivoset[FILE][FAIL]svGPicViewGPicViewhuAutomatically save rotated imagesAz elforgatott képek automatikus mentésees_VEAsk before deleting imagesPreguntar antes de eliminar las imágenesptNextSeguintehrZoom InPovećaj ZumiranjeheImage Viewerמציג התמונותglPreviousAnteriorafSave AsStoor asheRotate Counterclockwiseסיבוב נגד כיוון השעוןviAsk before deleting imagesHỏi trước khi xóa ảnhjaAll FilesすべてのファイルdePNG Compression Level:PNG-Kompressionsgrad:ukSave File AsЗберегти файл якdaImage ViewerBilledfremviserhrView your images easilyPogledajte lako svoje slikehuFit Image To Window SizeKép igazítása az ablak méretéhezbn_INThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)আপনি যে ফাইলের নাম নির্বাচন করেছেন সেটি আগে থেকে অবস্থিত।
+আপনি কি ওই ফাইল-টি মুছে ফেলতে ইচ্ছুক ?
+(Warning: The quality of original image might be lost)svZoom InZooma innlCopyright (C) 2007 - 2011Auteursrecht (C) 2007-2011srPreferencesПоставкеhuStart slideshowDiavetítés indításadeStart/Stop SlideshowDiaschau starten/beendenltPreviousAnkstesnissvSave File AsSpara fil somes_VEDelete FileEliminar archivosvJPEG Quality:JPEG-kvalité:koWriting this image format is not supported.이 그림 형식의 기록을 지원하지 않습니다.huQuitKilépésruLightweight image viewer from LXDE projectЛегкий просмотрщик изображений для проекта LXDEur_PKFlip Verticalعمودی گھمائیںheLightweight image viewer from LXDE projectמציג תמונות קליל ממיזם LXDEhrFullscreen:Cijeli zaslon:nl * Refer to source code of EOG image viewer and GThumb * Verwijs naar broncode van EOG-afbeeldingkijker en GThumbur_PKPreferencesترجیحاتzh_TWRotate Counterclockwise逆時針旋轉ruCopyright (C) 2007 - 2011Все права защищены (С) 2007 - 2011esZoom InAcercarlt[FILE][FAILAS]nnNextNestenbStart/Stop SlideshowStart/avslutt lysbildefremvisningarShow/Hide toolbarإخفاء\عرض شريط الأدواتltFullscreen:Per visą ekraną:ruPrint version information and exitВывести информацию о версии и выйтиca<b>Background colors</b><b>Colors de fons</b>msGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView akan menjadi pemapar default untuk semua fail imej yang disokong  disistem anda.
+(Ini akan disiapkan melalui program 'xdg-mime'
+
+<b>Adakah anda pasti untuk berbuat demikian?bgWriting this image format is not supported.Запис на изображението в този формат е неосъществим.arFlip Verticalاقلب رأسياslAsk before deleting imagesZahtevaj potrditev pred izbrisom slikennRotate CounterclockwiseDrei mot klokkakoStart Slideshow슬라이드 쇼 시작ur_PKHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.زیادہ دباؤ سے کم حجم کی فائلیں حاصل ہوتی ہیں،
+مگر دبانے میں زیادہ وقت صرف ہوتا ہے.zh_TWFullscreen:全螢幕：bnOpen Fileফাইল খুলুনfrpOriginal SizeTalyi d'originaptHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Se utilizar níveis de compressão altos gera ficheiros menores,
+mas levam mais tempo a comprimir.zh_CNtranslator-credits程任全(cheng) <crquan@gmail.com>
+商源纯 <05281253@bjtu.edu.cn>
+Wylmer Wang <wantinghard@gmail.com>ruAutomatically save rotated imagesАвтоматически сохранять повернутые изображенияfrAsk before saving imagesDemander avant d'enregistrer des imagesnlSave File AsBestand opslaan alsnbAll FilesAlle filerca[FILE][FITXER]da<b>Background colors</b><b>Baggrundsfarver</b>viShow/Hide toolbarHiện/ẩn thanh công cụmsRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Putarkan fail JPEG dengan menukarkan nilai orientasi EXIF,
+(hanya jika tag EXIF wujud)ur[FILE][فائل]nltranslator-creditsStephan Arts
+Sander De Voogdt
+PjotridGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView akan menjadi penampil standar untuk semua berkas citra yang didukung di sistem Anda.
+(Ini akan dilakukan melalui program 'xdg-mime')
+
+<b>Apakah Anda yakin ingin melakukan ini?</b>glStart SlideshowIniciar a presentaciónbnQuitপ্রস্থানnbOriginal SizeOriginalstørrelseur_PKtranslator-creditsمحمد علی مکی
+makki.ma@gmail.com
+اردو کوڈر لینکس فورم
+http://www.urducoder.com
+مکی کا بلاگ
+http://makki.urducoder.comfrAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Voulez-vous vraiment supprimer le fichier actuel ?
+
+Avertissement : Une fois supprimé, le fichier ne pourra pas être récupéré.bg<b>Background colors</b><b>Цветове за фона</b>plRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Obracanie plików JPEG poprzez zmianę wartości orientacji EXIF
+(tylko jeśli istnieje etykieta orientacji EXIF)es_VESave FileGuardar archivoptView your images easilyVeja facilmente as imagensnbStop SlideshowAvslutt lysbildefremvisningsk * Refer to source code of EOG image viewer and GThumb * Pozrite sa do zdrojového kódu prehliadača obrázkov EOG a GThumbnbRotate ClockwiseRoter med klokkenzh_CNStart/Stop Slideshow开始/停止幻灯片放映jaAutomatically save rotated images回転された画像を自動で保存するcsNextDalšíidAutomatically save rotated imagesSimpan secara otomatis citra yang diputaresRotate CounterclockwiseRotar a la izquierdaesPNG Compression Level:Nivel de compresión PNG:rusecсекhrAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Jeste li sigurni da želite obrisati trenutnu datoteku?
+
+Upozorenje: Jednom obrisana, datoteka se ne može vratiti.ur_PKGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>جی پیک ویو آپ کے نظام میں معاونت رکھنے والی تمام تصاویر فائلوں کا طے شدہ تصاویر منظرکار بننے جارہا ہے.
+(یہ 'xdg-mime' پروگرام کے ذریعے انجام دیا جائے گا)
+
+<b>کیا آپ واقعی ایسا کرنا چاہتے ہیں؟</b>huHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.A magasabb tömörítési szintek kisebb fájlméretet eredményeznek,
+de tovább tart a tömörítés.jaThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)その名前のファイルは既に存在します。
+上書きしますか？
+(警告: 元の画質が損なわれる恐れがあります)elStop SlideshowΔιακοπή παρουσίασηςskZoom OutOddialiťetFlip VerticalPüstine pööramineviAll Supported ImagesTất cả Hình ảnh Được hỗ trợafZoom OutZoem uitbgPNG Compression Level:PNG ниво на компресия:fiPNG Compression Level:PNG-pakkaustaso:thSave Asบันทึกเป็นhrCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011caLightweight image viewer from LXDE projectVisualitzador d'imatges lleuger del projecte LXDEnnView your images easilyVis biletesvQuitAvslutaukNormal:Нормально:bnFull Screenপর্দাজুড়ে প্রদর্শনfi<b>Background colors</b><b>Taustavärit</b>nlLightweight image viewer from LXDE projectLichtgewicht afbeeldingkijker van het LXDE-projectruFull ScreenНа полный экранruJPEG Quality:Качество JPEG:skRotate ClockwiseOtočiť v smere hodinových ručičiekptAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Tem a certeza de que quer eliminar o ficheiro atual?
+
+Atenção: uma vez eliminado, não poderá ser recuperado.thFit Image To Window Sizeจัดภาพตามขนาดหน้าต่างslMake GPicView the default viewer for imagesNastavi GPicView kot privzeti pregledovalnik sliknlFullscreen:Schermvullend:fiSave File AsTallenna nimelläcstranslator-creditsIvan Masár, Michal Várady, Jan Dlabal, Alois NešporviView your images easilyXem hình ảnh của bạn một cách dễ dàngcsSave FileUložit souborviAsk before saving imagesHỏi trước khi lưu ảnhltHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Labiau suspausti paveikslėliai užima mažiau vietos,
+tačiau didesniam suspaudimui reikia daugiau laiko.nlRotate ClockwiseMet de klok mee draaienettranslator-creditsMattias Põldaru
+Anari Jalakasuk[FILE][FILE]bnStart Slideshowস্লাইড প্রদর্শন আরম্ভzh_TWAsk before deleting images刪除影像前先詢問elAutomatically save rotated imagesΑυτόματη αποθήκευση εικόνων που έχουν περιστραφείthZoom Outขยายur_PKJPEG Quality:JPEG کوالٹی:zh_TWtranslator-credits洪任諭 (PCMan) <pcman.tw@gmail.com>
+Walter Cheuk <wwycheuk@gmail.com>huView your images easilyKépek megtekintése egyszerűenslStart slideshowZačni predstavitevheWriting this image format is not supported.כתיבה כסוג תמונה זה אינה נתמכת.skPrint version information and exitVypísať informácie o verzii a skončiťnlAsk before deleting imagesVraag bevestiging voor verwijderen van afbeeldingenhuSave File AsMentés máskéntheView your images easilyצפייה בהודעות האישיות בקלותbgAsk before deleting imagesЗапитай преди изтриване на снимкиelNextΕπόμενοko * Refer to source code of EOG image viewer and GThumb * EOG 그림보기와 GThumb의 소스코드를 참조하십시오itZoom InAumenta ingrandimentocaAutomatically save rotated imagesDesa automaticament les imatges rotadesglOriginal SizeTamaño orixinalurSave Fileفائل محفوظ کریںbnSave Fileফাইল সংরক্ষণtrSave FileDosyayı Kaydetur_PKWriting this image format is not supported.تصویر کے اس فارمیٹ کو لکھنے کی معاونت نہیں ہے.frSave AsEnregistrer soushuFull ScreenTeljes képernyőitRotate ClockwiseRuota in senso orarioptStart/Stop SlideshowIniciar/parar apresentaçãokoAll Supported Images모든 지원하는 그림fiAsk before deleting imagesKysy ennen kuvien poistamistaeuNextHurrengoaet<b>Background colors</b><b>Taustavärvid</b>bn_IN[FILE][ফাইল]msFlip VerticalLambungan Ketegakanfatranslator-creditsترجمه کنندگانnlAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Weet u zeker dat u het huidige bestand wilt verwijderen?
+
+Waarschuwing: nadat het is verwijderd, kan het bestand niet meer worden teruggeplaatst.sv[FILE][FIL]daThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Det valgte filnavn findes allerede.
+Vil du overskrive den eksisterende fil?
+(Advarsel: Kvaliteten på det oprindelige billede kan gå tabt)thFlip HorizontalหมุนกลับหัวukFlip VerticalПеревернути вертикальноruSave File AsСохранить файл какzh_TWCopyright (C) 2007 - 2011版權所有 (C) 2007 - 2011faFlip Verticalچرخش عمودیfrpSave AsSauvar comaukLower quality values yield smaller file sizes,
+but the image quality will be poorer.Менше значення якості приводить до меншого розміру файлів,
+але якість зображення при цьому зменшиться.bn_INtranslator-creditsসঙ্কর্ষণ মুখোপাধ্যায়koCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011nlRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Draai JPEG-bestand door de EXIF-oriëntatiewaarde te veranderen
+(alleen indien EXIF-oriëntatie-etiket bestaat)euAsk before saving imagesGaldetu irudiak gorde aurretikidRotate CounterclockwisePutar Berlawanan Arah Jarum JamcsShow/Hide toolbarZobrazit/skrýt panel nástrojůskAll Supported ImagesVšetky podporované obrázkypt * Refer to source code of EOG image viewer and GThumb *Referência ao código fonte dos visualizadores EOG e GThumbjaView your images easily簡単に画像を見ることができますviMake GPicView the default viewer for imagesSử dụng GPicView là chương trình xem ảnh mặc địnhjaFit Image To Window Sizeウィンドウサイズに合わせるzh_TWLightweight image viewer from LXDE project來自 LXDE 計畫的輕巧圖片檢視器skView your images easilyJednoduché prehliadanie obrázkovcaView your images easilyVisualitzeu les vostres imatges de manera simplefaPNG Compression Level:سطح تراکمی و فشردگی اندازه تصویر PNG:srFlip HorizontalОкрени хоризонталноfaDelete Fileحذف پروندهgltranslator-creditsFestor Wailon Dacoba <Galician and Spanish translation>
+Indalecio Freiría Santos <ifreiria@gmail.com>
+Miguel Anxo Bouzada <mbouzada@gmail.com>
+Proxecto Trasno <proxecto@trasno.net>urAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.کیا آپ واقعی حالیہ فائل کو حذف کرنا چاہتے ہیں؟
+
+انتباہ: حذف ہونے کے بعد فائل دوبارہ حاصل نہیں کی جاسکے گی.bg * Refer to source code of EOG image viewer and GThumb* Потърси изходен код за EOG изобразител и GThumbnbSlideshow intervalPause mellom hvert bildesvThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Filnamnet du valde finns redan.
+Vill du skriva över den existerande filen?
+(Varning: originalfilens kvalité kan förloras)ltAsk before saving imagesPaklausti prieš išsaugant paveikslėliussrCopyright (C) 2007 - 20112007-2011. Сва права задржана.etImage ViewerPildivaaturnlPreviousVorigeetSave File AsSalvesta fail kuizh_TWQuit結束pt_BRPreferencesPreferênciaszh_CNOriginal Size原始大小bnFit Image To Window Sizeছবিকে উইন্ডোর আকারের সাথে মানানসই করা হবেbgtranslator-creditsРадослав ИвановukAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Ви впевнені, що бажаєте видалити цей файл?
+
+Попередження: Видаливши цей файл Ви не зможете його відновити.koView your images easily그림을 쉽게 봅니다frNextSuivantnbJPEG Quality:JPEG-kvalitet:fiSave FileTallennacaRotate ClockwiseRota a la dretasrOriginal SizeОригинална величина сикеhrFull ScreenCijeli Zaslonms * Refer to source code of EOG image viewer and GThumb * Rujuk dari sumber kod pemapar imej EOG dan GThumbdePrint version information and exitVersionsinformation anzeigen und beendennnSave File AsLagra fil somheFullscreen:מסך מלא:eu<b>Background colors</b><b>Atzeko planoko koloreak</b>deAsk before saving imagesVor dem Speichern von Bildern nachfragenbn_INFullscreen:পুরো পর্দা জুড়ে:faSave Fileذخیره پروندهafJPEG Quality:JPEG-kwaliteit:ltFull ScreenPer visą ekranątrAutomatically save rotated imagesDöndürülen resimleri kendiliğinden kaydetfrpNextSegrèntafiGPicViewGPicViewidFit Image To Window SizePaskan Citra Ke Ukuran JendelaplCopyright (C) 2007 - 2011Prawa autorskie (C) 2007 - 2011bn_INAll Filesসকল ফাইলnnStart/Stop SlideshowStart/stopp framvisingptFull ScreenEcrã completozh_CNStop Slideshow停止幻灯片放映fiNextSeuraavadeCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011bn_INLightweight image viewer from LXDE projectLXDE প্রকল্পের একটি লাইটওয়েট ইমেজ প্রদর্শকptPreviousAnteriorarAutomatically save rotated imagesاحفظ الصور آليا بعد لفهاitAll Supported ImagesTutte le immagini supportateskZoom InPriblížiťitStart SlideshowAvvia presentazioneruDelete FileУдалить файлheShow/Hide toolbarהצגה/הסתרה של סרגל הכליםfiView your images easilyKatso kuviasi helpostifrpPreviousPrecedèntaukRotate ClockwiseПовернути за годинниковою стрілкоюpt_BRAll Supported ImagesTodos os arquivos de imagem suportadosthPreferencesการปับแต่งsrStart SlideshowАутоматски покретни приказltSlideshow intervalSkaidrių keitimo intervalasnnQuitAvsluttpt_BRGPicViewGPicViewel<b>Background colors</b><b>Χρώματα παρασκηνίου</b>arNextالتاليةfrNormal:Normal :esShow/Hide toolbarMostrar/Ocultar la barra de herramientasukStop SlideshowЗупинити слайдшоуukRotate CounterclockwiseПовернути проти годинникової стрілкиnnGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView vert standard biletvisingsprogram for alle biletfiler på dette systemet.
+(Dette vert gjort med programmet «xdg-mime».)
+
+<b>Er du sikker på at du vil gjera dette?</b>es_VEOpen FileAbrir archivohuWriting this image format is not supported.Ezen képformátum írása nem támogatott.ukAutomatically save rotated imagesАвтоматично зберегти повернуті зображенняafWriting this image format is not supported.Die skryf van hierdie beeldformaat word nie ondersteun nie.daNormal:Normal:frAutomatically save rotated imagesEnregistrer automatiquement les images pivotéesidAsk before deleting imagesTanya sebelum menghapus citraelNormal:Κανονικά:fiZoom InLähennäbnSave Asনতুনভাবে সংরক্ষণheRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)סיבוב קובץ JPEG על ידי שינוי ערך הכיווניות ב־EXIF
+(רק אם קיימות תגיות כיווניות ב־EXIF)pt_BRStop SlideshowParar apresentação de slidesbn * Refer to source code of EOG image viewer and GThumb* EOG ছবি প্রদর্শক এবং GThumb-র সোর্স কোড উল্লেখ করেnlHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Hogere compressiewaarden zorgen voor kleinere bestanden,
+maar de beeldkwaliteit zal verminderen.ltLightweight image viewer from LXDE projectLengva LXDE projekto paveikslėlių peržiūros programabnZoom Outছোট আকারে প্রদর্শনeuDelete FileEzabatu fitxategiabgGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView ще бъде изобразителя по подразбиране за всички поддържани файлове на вашата система.
+(Това ще се изпълни чрез 'xdg-mime')
+
+<b> Сигурни ли сте, че искате да продължите? </b>trFullscreen:Tam Ekran:glThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)O nome do ficheiro que elixiu xa existe.
+Quere sobrescribir o ficheiro existente?
+(Coidado: Pode perder a calidade da imaxe orixinal)faAsk before deleting imagesپیش از پاک کردن تصاویر ، بپرسesAsk before saving imagesPreguntar antes de guardar imágeneskoPrint version information and exit버전 정보를 출력하고 끝냅니다glFlip VerticalVoltear verticalmentevi<b>Background colors</b><b>Màu nền</b>idWriting this image format is not supported.Menulis ke format gambar ini tidak didukung.zh_TWLower quality values yield smaller file sizes,
+but the image quality will be poorer.選擇較低的品質可以產生比較小的檔案，
+但影像品質會較差。hePreferencesהעדפותglStart/Stop SlideshowIniciar/Deter a presentaciónplRotate ClockwiseObróć w prawodaSave FileGem filslJPEG Quality:Kakovost:ukStart slideshowПочати слайдшоуjaRotate Counterclockwise反時計回りに回転するviHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Cấp độ nén cao hơn sẽ làm kích thước tập tin nhỏ hơn,
+nhưng sẽ tốn nhiều thời gian để nén.slFit Image To Window SizePrilagodi sliko velikosti oknajaGPicViewGPicViewes_VELower quality values yield smaller file sizes,
+but the image quality will be poorer.Los valores más bajos producen archivos de menor tamaño,
+pero la imagen tendrá una calidad más pobre.es_VESave AsGuardar comomsImage ViewerPemapar ImejidHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Tingkat kompresi yang lebih tinggi menghasilkan ukuran berkas yang lebih kecil,
+tetapi perlu waktu lebih lama untuk melakukan kompresi.glImage ViewerVisor de imaxesnnZoom OutForminsketSave AsSalvesta kuifrsecsec.ukAll Supported ImagesВсі зображення, що підтримуютьсяitRotate CounterclockwiseRuota in senso antiorariozh_TWPreferences偏好設定zh_CNAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.你是否确定要删除当前文件？
+
+警告：一旦删除，文件就无法恢复。pt_BRSave AsSalvar comoesGPicViewGPicViewkoAutomatically save rotated images회전한 그림을 자동으로 저장하기fiFlip HorizontalPeilaa vaakasuunnassanbRotate CounterclockwiseRoter mot klokkennlPreferencesVoorkeureneusecsegdeImage ViewerBildbetrachteretLower quality values yield smaller file sizes,
+but the image quality will be poorer.Väiksema kvaliteedi korral saab väiksemad failid,
+kuid pildi kvaliteet väheneb.idSave AsSimpan SebagaideAll FilesAlle DateiensvAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Vill du verkligen ta bort aktuell fil?
+
+Varning: Borttagna filer kan inte återställas.es_VEZoom OutAlejaretStop SlideshowSlaidiesitluse peataminehuDelete FileTörlésukDelete FileВидалити файлzh_CNLower quality values yield smaller file sizes,
+but the image quality will be poorer.较低的质量值将会带来较小的文件大小，
+但是质量将会更差。itOriginal SizeDimensione originalebgFlip HorizontalХоризонтално завъртанеes_VESave File AsGuardar archivo comomsNextSelepasskFullscreen:Celá obrazovka:sl * Refer to source code of EOG image viewer and GThumb * Oglejte si izvorno kodo pregledovalnikov slik EOG in GThumb.rutranslator-creditsперевод Kazm для PuppyRus Linux http://puppyrus.ru
+Vitaly Pashkov <admin@fluda.net>fiPrint version information and exitNäytä versiotiedot ja poistufrZoom InZoom avantukGPicViewGPicViewdatranslator-creditsJoe Hansen, 2010
+Vidar Jon Bauge <vidarjb@gmail.com>
+Charlie Tyrrestrup <chalze06@gmail.com>
+
+Dansk-gruppen <dansk@dansk-gruppen.dk>
+Mere info: http://www.dansk-gruppen.dkhuFullscreen:Teljes képernyő:deAutomatically save rotated imagesAutomatisches Speichern nach BilddrehungelJPEG Quality:JPEG ποιότητα:deMake GPicView the default viewer for imagesGPicView als Standard-Bildbetrachter setzenidPreviousSebelumnyaelRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Περιστροφή του αρχείου JPEG αλλάζοντας το EXIF προσανατολισμό
+(μόνο αν το πεδίο EXIF προσανατολισμού υπάρχει)nlOriginal SizeOorspronkelijke grootteur_PKAsk before saving imagesتصاویر محفوظ کرنے سے پہلے پوچھیںnn[FILE][FIL]faLower quality values yield smaller file sizes,
+but the image quality will be poorer.کیفیت کم تصویر باعث کوچک شدن اندازه ی فایل می شود،
+ اما تصویر موردنظر کم کیفیت تر خواهد شد.frView your images easilyVisionner des images facilementfaThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)فایلی که انتخاب کرده اید وجود دارد.
+آیا می خواهید بر روی فایل موجود رونویسی کنید؟
+(اخطار: ممکن است کیفیت تصویر واقعی از بین برود)frStart slideshowDémarrer le diaporamadaWriting this image format is not supported.Skrivning til dette billedformat er ikke understøttet.faAll Filesهمه ی فایل هاthHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.การบีบอัดมากทำให้ภาพเล็กลง,
+แต่จะใช้เวลาในการบีบอัดมากfaQuitخروجskGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView sa stane predvoleným prehliadačom všetkých podporovaných typov obrázkov na vašom systéme.
+(Spraví sa to programom „xdg-mime“)
+
+<b>Ste si istý, že to chcete spraviť?</b>bn_INSave Asএই রূপে সংরক্ষণ করুনkoLightweight image viewer from LXDE projectLXDE 프로젝트의 가벼운 그림 보기 프로그램ukHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Вищий ступінь компресії зменшує розмір файлів,
+але забирає час на саму копресію.svOpen FileÖppna filptFullscreen:Ecrã completo:nnsecsekundarWriting this image format is not supported.الحفظ بهيئة الصور هذه غير مدعوم.es_VENextSiguienteurPrint version information and exitورژن کی معلومات طبع کر کے برخاست کریںthStart/Stop Slideshowเริ่ม/หยุดการเสนอภาพนิ่งbnStart slideshowস্লাইড প্রদর্শন আরম্ভafAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Wil u definitief die huidige lêer skrap?
+
+Waarskuwing: as die lêer eers geskrap is, kan dit nie herwin word nie.koGPicViewGPicViewurGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>جی پیک ویو آپ کے نظام میں معاونت رکھنے والی تمام تصاویر فائلوں کا طے شدہ تصاویر منظرکار بننے جارہا ہے.
+(یہ 'xdg-mime' پروگرام کے ذریعے انجام دیا جائے گا)
+
+<b>کیا آپ واقعی ایسا کرنا چاہتے ہیں؟</b>nlShow/Hide toolbarWerkbalk tonen/verbergenskAsk before deleting imagesPýtať sa pred zmazaním obrázovzh_TWRotate Clockwise順時針旋轉urFullscreen:پوری سکرین:arStart slideshowابدأ عرض الشرائحmsDelete FilePadam Failzh_TWPrint version information and exit顯示版本資訊然後結束uk * Refer to source code of EOG image viewer and GThumb * Зверніться до джерельного коду переглядача малюнків EOG і GThumbdeFit Image To Window SizeBild an Fenstergröße anpasseneuPreferencesHobespenaksvSlideshow intervalBildintervall vid bildspelesSave AsGuardar comonlOpen FileBestand openennlWriting this image format is not supported.Het wegschrijven naar dit afbeelding-opmaaktype wordt niet ondersteund.hu<b>Background colors</b><b>Háttérszínek</b>koJPEG Quality:JPEG 화질:gl[FILE][FICHEIRO]frpZoom OutVére forafaLightweight image viewer from LXDE projectنمایشگر تصویر سبک وزن پروژه ی LXDEukSlideshow intervalІнтервал слайдшоуur_PKNextاگلاarDelete Fileاحذف الملفcsAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Opravdu chcete smazat vybraný soubor?
+
+Upozornění: Po smazání nebude možné obrázek obnovit.detranslator-creditsMartin Siggel
+Mario Blättermann <mario.blaettermann@gnome.org>
+Christoph Wickert <cwickert@fedoraproject.org>
+Lutz Thuns <lthuns@opensuse.org
+>Daniel Winzen <d@winzen4.de>srStart slideshowАутоматски покретни приказeuOpen FileIreki fitxategiaslStop SlideshowZaustavi predstavitevnbGPicViewGPicViewhuFlip HorizontalVízszintes tükrözésltSave File AsIšsaugoti failą kaipjaQuit終了ptRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Rodar ficheiro JPEG ao mudar o valor de orientação EXIF
+(só funciona se existirem detalhes de orientação EXIF)pt<b>Background colors</b><b>Cores de fundo</b>etThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Sinu valitud nimega fail on juba olemas.
+Kas tahad olemasoleva faili üle kirjutada?
+(Hoiatus: Pildi kvaliteet võib väheneda)faFit Image To Window Sizeتنظیم به اندازه‌ی پنجرهdaAll Supported ImagesAlle understøttede filtyperthSave Fileบันทึกไฟล์arOriginal Sizeالحجم الأصليdaStart SlideshowStart diasshowruStart/Stop SlideshowЗапуск/останов слайдшоуsrWriting this image format is not supported.Није подржан запис у овом формату.msAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Adakah anda pasti hendak memadam fail kini?
+
+Amaran: Setelah padam, fail tidak boleh diselamatkanbgZoom OutНамаляванеhetranslator-creditsירון שהרבני <sh.yaron@gmail.com>
+ליאל פרידמן <lielft@gmail.com>thSlideshow intervalเวลาหน่องการนำเสนอภาพนิ่งruLower quality values yield smaller file sizes,
+but the image quality will be poorer.Меньший уровень качества приводит к меньшим размерам,
+ но качество изображения будет хуже.fiPreferencesAsetuksetkoZoom Out축소euPreviousAurrekoadeRotate CounterclockwiseEntgegen dem Uhrzeigersinn drehenpt_BRFlip HorizontalInverter horizontalmenteetSave FileSalvesta failptSlideshow intervalIntervalo da apresentaçãothtranslator-creditsผู้แปลurRotate Counterclockwiseگھڑی کے عکس گھمائیںplAutomatically save rotated imagesAutomatyczne zapisywanie obróconych obrazówurMake GPicView the default viewer for imagesجی پیک ویو کو تصاویر کے لیے طے شدہ تصاویر منظرکار بنائیںeuCopyright (C) 2007 - 2011Copyright-a (C) 2007 - 2011hrPNG Compression Level:PNG razina kompresije:csAsk before saving imagesPtát se před uložením obrázkůsvStart SlideshowStarta bildspelcsStart SlideshowZahájit prezentaciurPreferencesترجیحاتesPreviousAnteriorltRotate ClockwisePasukti pagal laikrodžio rodyklęsvLower quality values yield smaller file sizes,
+but the image quality will be poorer.Lägre värden på kvalité innebär att filstorleken blir
+mindre men även att bildkvalitén blir sämre.urPNG Compression Level:PNG دباؤ درجہ:idLightweight image viewer from LXDE projectPenampil citra ringan dari proyek LXDEnbRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Roter JPEG-bilder ved å endre orientasjonsverdien i filens EXIF
+(kun hvis orientasjonsverdi finnes i EXIF-infoen)plFull ScreenPełny ekranltPNG Compression Level:PNG suspaudimo lygis:ruWriting this image format is not supported.Запись этого формата изображений не поддерживается.glQuitSaírafOpen FileOpen lêercaStart/Stop SlideshowEngega/Atura la transicióheSlideshow intervalההפרש בין הצגת התמונותidAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Apakah Anda yakin ingin menghapus berkas saat ini?
+
+Peringatan: Sekali dihapus, berkas tak dapat dikembalikan.hrPreferencesPostavkedeFullscreen:VollbildmodushrSlideshow intervalInterval prikaza u slijeduarGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>سيصبح GPicview عارض الصور الافتراضي لكل ملفات الصور المدعومة في النظام.
+(ستتم هذه العملية بواسطة برنامج 'xdg-mime')
+
+<b>هل أنت متأكد أنك تريد القيام بهذا؟</b>bn_INAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.আপনি নিশ্চিত যে বর্তমান ফাইলটি মুছে ফেলবেন?
+সতর্কবার্তা: মুছে ফেলার পরে ফাইলটি ফিরিয়ে আনা সম্ভব নয়।nbFullscreen:Fullskjerm:jaCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011heNextהבאhrThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Ime datoteke koje ste odabrali već postoji.
+Želite li prepisati preko postojeće datoteke?
+(Upozorenje: Kvaliteta orginalne slike može biti izgubljena)deSave File AsDatei speichern unterglStop SlideshowDeter a presentaciónkoFullscreen:전체 화면:csView your images easilyProhlížejte si svoje obrázky jednodušeltGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView taps numatytaja paveikslėlių peržiūros programa. Ja bus atidaromi visi palaikomi paveikslėlių failai.
+(Tai bus padaryta naudojant „xdg-mime“ programą)
+
+<b>Ar tikrai norite tai atlikti?</b>es_VEPNG Compression Level:Nivel de compresión PNG:glSave FileGardar ficheiroitAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Vuoi veramente eliminare questo file?
+
+Attenzione: Una volta eliminato non è recuperabile.srSave AsСачувај под другим именомmsPrint version information and exitInformasi versi cetak dan keluarpt_BRPreviousAnteriorpt_BR * Refer to source code of EOG image viewer and GThumb * Consulte o código fonte do visualizador de imagens EOG e do GThumbkoStop Slideshow슬라이드 쇼 중지csFullscreen:Celá obrazovka:slWriting this image format is not supported.Shranjevanje te vrste slik ni podprto.ptCopyright (C) 2007 - 2011Direitos de autor (C) 2007 - 2011hrAll Supported ImagesSve Podržane Slikees_VEImage ViewerVisor de imágenesptAutomatically save rotated imagesGravar automaticamente imagens rodadaspt_BRFlip VerticalInverter verticalmenteruRotate CounterclockwiseПовернуть против часовой стрелкиhrFlip HorizontalOkreni vodoravnomsZoom OutSorotan KeluareuOriginal SizeJatorrizko tamainajaSave Fileファイルを保存するjaLightweight image viewer from LXDE projectLXDE プロジェクトの軽量イメージビューワelGPicViewGPicViewptFlip HorizontalInversão horizontalptWriting this image format is not supported.A escrita neste formato não é suportada.jaSave As名前をつけて保存csStop SlideshowZastavit prezentacietRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)JPEG failid pööratakse EXIF suunasilti muutes
+(kui EXIFi suunasilt eksisteerib)heQuitיציאהnlStart/Stop SlideshowBegin/staak diavoorstellingbgSave File AsЗапази файла като...es_VEFull ScreenPantalla completahrStart/Stop SlideshowPokreni/zaustavi prikaz u slijeduheOriginal Sizeגודל מקוריtrStart SlideshowSunu Gösterimi BaşlatfaPreviousقبلیheAsk before deleting imagesהצגת שאלה בטרם מחיקת תמונותeu * Refer to source code of EOG image viewer and GThumb * Begiratu EOG irudi ikustailearen eta GThumb-en iturburu kodeaptDelete FileEliminar ficheirogl * Refer to source code of EOG image viewer and GThumb * Consulte o código fonte do visor de imaxes EOG e do GThumbes_VE<b>Background colors</b><b>Colores de fondo</b>ar<b>Background colors</b><b>ألوان الخلفية</b>glLightweight image viewer from LXDE projectVisor de imaxes lixeiro do proxecto LXDEfrHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Un niveau de compression plus élevé entrainera un fichier plus petit,
+mais le temps de compression sera également plus élevé.arPreferencesالتفضيلاتitMake GPicView the default viewer for imagesRendi GPicView il visualizzatore predefinito per immaginiltImage ViewerPaveikslėlių peržiūros programaitJPEG Quality:Qualità JPEG:thAsk before deleting imagesถามก่อนลบภาพglNormal:Normal:slGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView bo postal privzeti pregledovalnik vseh podprtih slikovnih datotek.
+(Dejanje bo izvedeno s programom »xdg-mime«)
+
+<b>Ali ste prepričani, da želite to storiti?</b>thAsk before saving imagesถามก่อนบันทึกภาพskStart/Stop SlideshowSpustiť/zastaviť prezentáciucaFlip VerticalReflecteix verticalmentcaStart SlideshowInicia la transiciósvZoom OutZooma utthFull Screenเต็มจอitShow/Hide toolbarMostra/Nascondi barra degli strumentiskStop SlideshowZastaviť prezentáciuruAre you sure you want to delete current file?
+
+Warning: Once deleted, the file cannot be recovered.Вы уверены что хотите удалить этот файл?
+
+Внимание: Удаленный файл не может быть восстановлен.caStop SlideshowAtura la transiciókoQuit나가기svOriginal SizeOriginalstorlekmsOriginal SizeSaiz AsalsrAsk before saving imagesПитај пре чувања сликаskPreviousPredošlýitView your images easilyVisualizza facilmente le tue immaginibnFullscreen:পর্দা জুড়ে প্রদর্শন:srThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Датотека са истим именом већ постоји.
+Да ли желите да пишем преко постојеће датотеке?
+(УПОЗОРЕЊЕ: Овим можете изгубити на квалитету слике)cs[FILE][SOUBOR]nbCopyright (C) 2007 - 2011Copyright (C) 2007-2011jaStart slideshowスライドショーを開始hrPreviousPrethodnohuFlip VerticalFüggőleges tükrözésit * Refer to source code of EOG image viewer and GThumb * Riferirsi al codice originale di EOG image viewer e di GThumbsvFlip HorizontalVänd vågrättbnAll Supported Imagesসব সমর্থিত ছবিetStart/Stop SlideshowSlaidiesitluse alustamine/peataminebgHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.По-голямата компресация заема по-малко място,
+но ще отнеме известно време.ko<b>Background colors</b><b>배경 색</b>jaGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView は対応するすべての画像ファイルに対して、あなたのシステムでの標準のイメージビューワになります。
+('xdg-mime' プログラムによって)
+
+<b>そうなることを本当に希望しますか？</b>slFlip VerticalZrcali navpičnoesJPEG Quality:Calidad JPEG:frStart SlideshowDémarrer le diaporamaslZoom OutOddaljisrRotate CounterclockwiseОкрени на левоfaImage Viewerنمایشگر تصویرpt_BRWriting this image format is not supported.Não há suporte para gravar este formato de imagemdaHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.Højere kompressionsniveau giver mindre filstørrelse,
+men det tager længere tid at komprimere.ltShow/Hide toolbarRodyti/Slėpti įrankinęnnFull ScreenFullskjermbn_INJPEG Quality:JPEG গুণমান:hrOriginal SizeOrginalna VeličinafiOpen FileAvaasrLightweight image viewer from LXDE projectОлакшани прегледач слика за LXDE радно окружењеnbtranslator-creditsJon Ole Killie
+Sam Magnus WilsonsrFlip VerticalОкрени вертикалноthSave File Asบันทึกไฟล์เป็นviThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Tên tập tin bạn chọn đã tồn tại.
+Bạn có muốn lưu đè lên tập tin này không?
+(Cảnh báo: Chất lượng của ảnh gốc có thể bị giảm)urPreviousسابقہcsStart/Stop SlideshowZahájit nebo zastavit prezentacizh_TWImage Viewer圖片檢視ltThe file name you selected already exists.
+Do you want to overwrite existing file?
+(Warning: The quality of original image might be lost)Pasirinktas failas jau egzistuoja.
+Ar norite pakeisti egzistuojantį failą?
+(Perspėjimas: originalaus paveikslėlio kokybė gali būti prarasta)zh_TWAutomatically save rotated images自動儲存經過旋轉的影像daSave AsGem sombnHigher compression levels yield smaller file sizes,
+but takes more time to do the compression.উচ্চতর কম্প্রেশনের ফলে অপেক্ষাকৃত ছোট আকারের ফাইল তৈরী হয়,
+কিন্তু কম্প্রেশন করতে অধিক সময়ের প্রয়োজন হয়।frpSave File AsSauvar lo fichèr comathWriting this image format is not supported.ไม่สนับสนุนรูปแบบการเขียนไฟล์ภาพนี้bgLower quality values yield smaller file sizes,
+but the image quality will be poorer.По-ниските стойности за качество намялат размера на файла,
+но и качеството на снимката ще е по-бедно.es_VEGPicViewGPicViewsrAsk before deleting imagesПитај пре брисања сликаcaLower quality values yield smaller file sizes,
+but the image quality will be poorer.Amb valors baixos de qualitat tindreu fitxers petits, 
+tot i això, la qualitat de la imatge serà pitjor.hePNG Compression Level:רמת דחיסת ה־PNG:plStart SlideshowRozpocznij prezentacjęsrOpen FileОтвори датотекуdaGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView vil blive standardfremviser for alle understøttede billedfiler på dit system.
+(Dette sker ved hjælp af programmet xdg-mime)
+
+<b>Er du sikker på, at du vil dette?</b>csCopyright (C) 2007 - 2011Copyright (C) 2007 - 2011euWriting this image format is not supported.Ez da onartzen irudi formatu hau gainidaztea.fiRotate JPEG file by changing EXIF orientation value
+(only if EXIF orientation tag exists)Käännä JPEG-tiedosto vaihtaen EXIF-asentoarvoa (vain jos EXIF-asentotunniste on jo olemassa)faOriginal Sizeاندازه اصلیzh_CNFull Screen全屏幕pt_BR<b>Background colors</b><b>Cor de fundo</b>nnFlip HorizontalSpegla vassrettbgPrint version information and exitОтпечатай версията на програмата и излезthGPicView will become the default viewer for all supported image files on your system.
+(This will be done through 'xdg-mime' program)
+
+<b>Are you sure you really want to do this?</b>GPicView จะถูกตั้งให้เป็นตัวดูภาพกับรูปแบบภาพทั้งหมดของเครื่องคุณ
+(โดยใช้โปรแกรม 'xdg-mime' )
+
+<b>คุณต้องการทำแบบนี้หรือไม่?</b>

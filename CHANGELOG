@@ -1,0 +1,12 @@
+2015-02-02  Henry Nugraha  <putu.henry.nugraha@gmail.com>
+
+	* src/main-win.c:
+		- made gpicview to open in fullscreen mode.
+		- increase zoom step size.
+		- changed some keybinding (f to toggle fullscreen mode, ESC to exit from program).
+		- always fit image to windows size when switching from fullscreen to unfullscreen.
+
+	* src/image-list.c:
+		- implemented Gregory Smith's Numacomp (numerically aware string comparison)
+		  when building image list.
+		- disable wrapping around image in list..
